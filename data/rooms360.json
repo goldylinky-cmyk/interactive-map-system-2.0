@@ -27,7 +27,7 @@
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about CEIT Faculty Room"
+                "text": "Faculty room for the College of Engineering and Information Technology teachers. \n \n7:00 AM - 4:00 PM"
             }
         ]
     },
@@ -46,13 +46,13 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text":"Info about CEIT Chairperson Room"
+                "text":"Office of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -2,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about Mikrotik Academy"
+                "text":"Advanced training/lecture room for specialized networking courses \n(often industry certified)."
             },
             {
                 "pitch": -40,
@@ -89,13 +89,13 @@
                 "pitch": -5,
                 "yaw": 230,
                 "type": "info",
-                "text": "This is the room of the CEIT Chairperson"
+                "text": "Office of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -80,
                 "type": "info",
-                "text":"Info about Mikrotik Academy & CEIT Equipment Room"
+                "text":"Advanced training/lecture room for specialized networking courses \n(often industry certified)."
             },
             {
                 "pitch": -12,
@@ -133,13 +133,13 @@
                 "pitch": -5,
                 "yaw": 38,
                 "type": "info",
-                "text":"Info about Mikrotik Academy & CEIT Equipment Room"
+                "text":"Storage and maintenance of tools, devices, and specialized equipment for CEIT."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about Electronics and Circuits Laboratory"
+                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -11,
@@ -176,13 +176,13 @@
                 "pitch": -5,
                 "yaw": 38,
                 "type": "info",
-                "text":"Info about Mikrotik Academy & CEIT Equipment Room"
+                "text":"Storage and maintenance of tools, devices, and specialized equipment for CEIT."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about Electronics and Circuits Laboratory"
+                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -11,
@@ -207,13 +207,13 @@
                 "pitch": -10,
                 "yaw": 0,
                 "type": "info",
-                "text": "Info about CEIT Lecture Room."  
+                "text": "General classroom/lecture hall for CEIT courses."  
             },
             {
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text":"Info about Electronics and Circuits Laboratory."
+                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -10,
@@ -250,13 +250,13 @@
                 "pitch": -5,
                 "yaw": 45,
                 "type": "info",
-                "text": "Info about CEIT Lecture Room."  
+                "text": "General classroom/lecture hall for CEIT courses."  
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Drawing Laboratory."  
+                "text": "Lab for Engineering drawing, drafting, and design courses."  
             },
             {
                 "pitch": -9,
@@ -293,13 +293,13 @@
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Info about Mac Laboratory"
+                "text": "Computer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about CEIT Computer Laboratory"
+                "text": "General computer lab for CEIT courses."
             },
             {
                 "pitch": -11,
@@ -330,13 +330,13 @@
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Info about Mac Laboratory"
+                "text": "Computer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about CEIT Computer Laboratory"
+                "text": "General computer lab for CEIT courses."
             },
             {
                 "pitch": -11,
@@ -367,7 +367,7 @@
                 "pitch": 0,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Storage Room"
+                "text": "General storage for the CEIT department."
             },
             {
                 "pitch": -5,
@@ -414,7 +414,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about CBA Faculty Room"
+                "text": "Faculty room for the College of Business and Accountancy (CBA) teachers."
             },
             {
                 "pitch": -12,
@@ -439,13 +439,13 @@
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Business department administration and student consultation."
+                "text": "Office of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -60,
                 "type": "info",
-                "text": "Info about ALM401"
+                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -12,
@@ -476,13 +476,13 @@
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Department administration and student consultation."
+                "text": "Office of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -60,
                 "type": "info",
-                "text": "Info about ALM401"
+                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -12,
@@ -513,13 +513,13 @@
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about ALM401"
+                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about ALM402"
+                "text": "ALM 402 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -556,13 +556,13 @@
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about ALM402"
+                "text": "ALM 402 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about ALM403"
+                "text": "ALM 403 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -599,13 +599,13 @@
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "Info about ALM403"
+                "text": "ALM 403 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about ALM404"
+                "text": "ALM 404 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -642,13 +642,13 @@
                 "pitch": -5,
                 "yaw": -135,
                 "type": "info",
-                "text": "Info about ALM404"
+                "text": "ALM 404 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about ALM405"
+                "text": "ALM 405 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -679,7 +679,7 @@
                 "pitch": 0,
                 "yaw": 87,
                 "type": "info",
-                "text": "Info about Business Stimulation Office"
+                "text": "Business Stimulation Office \n \nFacility used to simulate a real business environment for hands-on training/exercises (e.g., Accounting, Marketing)."
             },
             {
                 "pitch": -5,
@@ -719,7 +719,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Conference Room"
+                "text": "General meeting room for faculty, staff, and external stakeholders."
             },
             {
                 "pitch": -12,
@@ -752,7 +752,7 @@
                 "pitch": -5,
                 "yaw": 115,
                 "type": "info",
-                "text": "Info about Learning Resource Center / College Library"
+                "text": "General library for the College/Building."
             },
             {
                 "pitch": -2,
@@ -783,13 +783,13 @@
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about Learning Resource Center / College Library"
+                "text": "General library for the College/Building."
             },
             {
                 "pitch": -5,
                 "yaw": 85,
                 "type": "info",
-                "text": "Info about Computer Laboratory"
+                "text": "General-purpose computer lab (shared use)."
             },
             {
                 "pitch": -9,
@@ -814,7 +814,7 @@
                 "pitch": 0,
                 "yaw": 87,
                 "type": "info",
-                "text": "Info about Prefect of Student Formation and Actiivities"
+                "text": "<b>Prefect of Student Formation and Activities</b>\n\nCollege-level office overseeing student discipline, welfare, and activities/organizations."
             },
             {
                 "pitch": -3,
@@ -853,7 +853,7 @@
                 "pitch": -5,
                 "yaw": -95,
                 "type": "info",
-                "text": "Info about CON Faculty Room"
+                "text": "Faculty room for the College of Nursing (CON) teachers."
             },
             {
                 "pitch": -12,
@@ -886,13 +886,13 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Info about Dean of College of Nursing Room"
+                "text": "Office of the Dean/Chairperson for the College of Nursing. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text": "Info about ALM201"
+                "text": "Lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -14,
@@ -917,13 +917,13 @@
                 "pitch": -5,
                 "yaw": -100,
                 "type": "info",
-                "text": "Info about ALM201a"
+                "text": "Lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Info about ALM201b"
+                "text": "Lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -954,13 +954,13 @@
                 "pitch": -5,
                 "yaw": -100,
                 "type": "info",
-                "text": "Info about ALM201a"
+                "text": "Lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Info about ALM201b"
+                "text": "Lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -991,13 +991,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Info about ALM201b"
+                "text": "Lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about ALM202a"
+                "text": "Secondary/Advanced lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -10,
@@ -1022,13 +1022,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Info about ALM202a"
+                "text": "Secondary/Advanced lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about ALM202b"
+                "text": "Secondary/Advanced lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -1053,13 +1053,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Info about ALM202b"
+                "text": "Secondary/Advanced lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Info about Anatomy Room"
+                "text": "Specialized laboratory for the study of the human anatomy (often with models or specimens)."
             },
             {
                 "pitch": -10,
@@ -1084,7 +1084,7 @@
                 "pitch": 0,
                 "yaw": 130,
                 "type": "info",
-                "text": "Info about Student Affairs and Actiivities"
+                "text": "<b> Student Affairs and Activities</b> \n \nGeneral College office managing student welfare, organizations, and extra-curricular activities."
             },
             {
                 "pitch": -3,
@@ -1096,7 +1096,7 @@
                 "pitch": -6,
                 "yaw": 40,
                 "type": "scene",
-                "sceneId": "Anatomy Rooms"
+                "sceneId": "Anatomy Room"
             },
             {
                 "pitch": -25,
@@ -1123,7 +1123,7 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Info about COE Faculty Room"
+                "text": "Faculty room for the College of Education (COE) teachers. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": 0,
@@ -1176,7 +1176,7 @@
                 "pitch": -5,
                 "yaw": -75,
                 "type": "info",
-                "text": "Info about ALM101"
+                "text": "Lab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": -5,
@@ -1188,7 +1188,7 @@
                 "pitch": -5,
                 "yaw": 240,
                 "type": "info",
-                "text":"Info about COE Chairperson Room"
+                "text":"Office of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -11,
@@ -1213,13 +1213,13 @@
                 "pitch": 0,
                 "yaw": 285,
                 "type": "info",
-                "text": "Info about ALM101"
+                "text": "Lab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": 0,
                 "yaw": 240,
                 "type": "info",
-                "text":"Info about COE Chairperson Room"
+                "text":"Office of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -11,
@@ -1244,13 +1244,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "Info about ALM102"
+                "text": "General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 220,
                 "type": "info",
-                "text":"Info about ALM101"
+                "text":"Lab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": -11,
@@ -1275,13 +1275,13 @@
                 "pitch": -5,
                 "yaw": 270,
                 "type": "info",
-                "text": "Info about ALM103"
+                "text": "General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -5,
                 "yaw": 225,
                 "type": "info",
-                "text":"Info about ALM102"
+                "text":"General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -11,
@@ -1318,13 +1318,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "Info about ALM104"
+                "text": "General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 220,
                 "type": "info",
-                "text":"Info about ALM103"
+                "text":"General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -6,
@@ -1355,13 +1355,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "Info about ALM105"
+                "text": "General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 230,
                 "type": "info",
-                "text":"Info about ALM104"
+                "text":"General Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -6,
@@ -1398,7 +1398,7 @@
                 "pitch": 0,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about Flambeau Publications"
+                "text": "<b> Flambeau Publications</b> \n \nOffice for the official school publication (likely college-level)."
             },
             {
                 "pitch": -7,
@@ -1410,7 +1410,7 @@
                 "pitch": 0,
                 "yaw": 97,
                 "type": "info",
-                "text": "Info about Electrical Room"
+                "text": "Technical room containing the main electrical panels and distribution systems."
             },
             {
                 "pitch": 20,
@@ -1436,7 +1436,7 @@
                 "pitch": 0,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about Flambeau Publications"
+                "text": "Office for the official school publication (likely college-level)."
             },
             {
                 "pitch": -7,
@@ -1448,7 +1448,7 @@
                 "pitch": 0,
                 "yaw": 97,
                 "type": "info",
-                "text": "Info about Electrical Room"
+                "text": "Technical room containing the main electrical panels and distribution systems."
             },
             {
                 "pitch": 20,
@@ -1508,13 +1508,13 @@
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB101"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": 0,
                 "yaw": -25,
                 "type": "info",
-                "text":"Info about STB102"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -10,
@@ -1540,19 +1540,19 @@
                 "pitch": 0,
                 "yaw": -165,
                 "type": "info",
-                "text":"Info about STB101"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB102"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": 0,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about STB103"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -10,
@@ -1577,13 +1577,13 @@
                 "pitch": 0,
                 "yaw": -168,
                 "type": "info",
-                "text":"Info about STB102"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB103"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -15,
@@ -1621,13 +1621,13 @@
                 "pitch": 0,
                 "yaw": -173,
                 "type": "info",
-                "text":"Info about STB103"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about Office of the Principal and Subject Area Coordinators"
+                "text":"Primary administrative office for the Principal (likely IBED) and academic coordinators."
             },
             {
                 "pitch": -7,
@@ -1658,7 +1658,7 @@
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about Office of the Dean"
+                "text":"College-level administrative office "
             },
             {
                 "pitch": -5,
@@ -1683,7 +1683,7 @@
                 "pitch": -5,
                 "yaw": 123,
                 "type": "info",
-                "text":"Info about Office of the NSTP Coordinator"
+                "text":"Office managing the National Service Training Program (NSTP) for college students."
             },
             {
                 "pitch": -5,
@@ -1729,7 +1729,7 @@
                 "pitch": -5,
                 "yaw": -93,
                 "type": "info",
-                "text":"Info about STB201"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -12,
@@ -1749,7 +1749,7 @@
                 "pitch": -5,
                 "yaw": -37,
                 "type": "info",
-                "text":"Info about STB202"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -10,
@@ -1769,13 +1769,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB202"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -3,
                 "yaw": 165,
                 "type": "info",
-                "text":"Info about STB203"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -10,
@@ -1801,13 +1801,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB203"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -2,
                 "yaw": 174,
                 "type": "info",
-                "text":"Info about STB204"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -8,
@@ -1832,13 +1832,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB204"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -2,
                 "yaw": 140,
                 "type": "info",
-                "text":"Info about STB205"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -5,
@@ -1863,13 +1863,13 @@
                 "pitch": -5,
                 "yaw": 93,
                 "type": "info",
-                "text":"Info about STB205"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -3,
                 "yaw": 15,
                 "type": "info",
-                "text":"Info about STB204"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -11,
@@ -1902,7 +1902,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB301"
+                "text":"General Classrooms/Lecture Rooms (likely JHS/SHS or College)."
             },
             {
                 "pitch": -18,
@@ -1935,7 +1935,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about SHS and JHS Library"
+                "text":"Learning Resource Center/Library for Senior High and Junior High School students."
             },
             {
                 "pitch": -4,
@@ -1968,7 +1968,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB401"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -11,
@@ -2001,7 +2001,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB402"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -2026,7 +2026,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB403"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -2044,14 +2044,14 @@
     },
     "STB404": {
         "image": "assets/360-images/thomas edited/STB404.jpg",
-        "pitch": 0,
+        "pitch": 2,
         "yaw": -90,
         "hotSpots": [
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB404"
+                "text":"Dedicated laboratory for Physics and other Physical Science subjects."
             },
             {
                 "pitch": -5,
@@ -2060,7 +2060,7 @@
                 "sceneId": "STB403"
             },
             {
-                "pitch": -10,
+                "pitch": -10,   
                 "yaw": 3,
                 "type": "scene",
                 "sceneId": "STB405"
@@ -2069,14 +2069,14 @@
     },
     "STB405": {
         "image": "assets/360-images/thomas edited/STB405.jpg",
-        "pitch": 0,
+        "pitch": 2,
         "yaw": -100,
         "hotSpots": [
             {
                 "pitch": -5,
                 "yaw": -100,
                 "type": "info",
-                "text":"Info about STB405"
+                "text":"Dedicated laboratory for Biology and other Biological Science subjects."
             },
             {
                 "pitch": -11,
@@ -2109,7 +2109,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB501"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -2141,7 +2141,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB502"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -2166,7 +2166,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB503"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -9,
@@ -2178,7 +2178,7 @@
     },
     "STB504": {
         "image": "assets/360-images/thomas edited/STB504.jpg",
-        "pitch": 0,
+        "pitch": 10,
         "yaw": 90,
         "hotSpots": [
             {
@@ -2191,7 +2191,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB504"
+                "text":"Large room equipped with projection and sound systems for presentations and multimedia viewing."
             },
             {
                 "pitch": -9,
@@ -2216,7 +2216,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about STB505"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -11,
@@ -2235,7 +2235,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about STB506"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -2261,7 +2261,7 @@
                 "pitch": -5,
                 "yaw": -10,
                 "type": "info",
-                "text":"Info about Casa Antonia-Training Hotel"
+                "text":"Specialized facility for Hotel and Restaurant Management (HRM)/Tourism students to train in a simulated hotel environment."
             },
             {
                 "pitch": -10,
@@ -2463,19 +2463,19 @@
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about St. Rose of Lima Hall"
+                "text": "A large function room or secondary auditorium for events, assemblies, and lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 165,
                 "type": "info",
-                "text": "Info about Computer Laboratory Office"
+                "text": "Administrative office managing the computer laboratories in the building/department."
             },
             {
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text": "Info about College Computer Laboratory"
+                "text": "Computer lab dedicated for college students' use."
             }
         ]
     },
@@ -2526,19 +2526,19 @@
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about St. Rose of Lima Hall"
+                "text": "A large function room or secondary auditorium for events, assemblies, and lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 165,
                 "type": "info",
-                "text": "Info about Computer Laboratory Office"
+                "text": "Administrative office managing the computer laboratories in the building/department."
             },
             {
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text": "Info about College Computer Laboratory"
+                "text": "Computer lab dedicated for college students' use."
             }
         ]
     },
@@ -2589,19 +2589,19 @@
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about St. Rose of Lima Hall"
+                "text": "A large function room or secondary auditorium for events, assemblies, and lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 165,
                 "type": "info",
-                "text": "Info about Computer Laboratory Office"
+                "text": "Administrative office managing the computer laboratories in the building/department."
             },
             {
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text": "Info about College Computer Laboratory"
+                "text": "Computer lab dedicated for college students' use."
             }
         ]
     },
@@ -2614,19 +2614,19 @@
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text": "Info about High School Computer Lab"
+                "text": "Computer lab dedicated for High School students' use."
             },
             {
                 "pitch": -5,
                 "yaw": -70,
                 "type": "info",
-                "text": "Info about Office of The President"
+                "text": "Primary administrative office for the Head of the Institution."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Info about Accreditation Center"
+                "text": "Office responsible for preparing and managing institutional accreditation processes."
             },
             {
                 "pitch": -7,
@@ -2651,19 +2651,19 @@
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text": "Info about High School Computer Lab"
+                "text": "Computer lab dedicated for High School students' use."
             },
             {
                 "pitch": -5,
                 "yaw": -70,
                 "type": "info",
-                "text": "Info about Office of The President"
+                "text": "Primary administrative office for the Head of the Institution."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Info about Accreditation Center"
+                "text": "Office responsible for preparing and managing institutional accreditation processes."
             },
             {
                 "pitch": -7,
@@ -2688,19 +2688,19 @@
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text": "Info about High School Computer Lab"
+                "text": "Computer lab dedicated for High School students' use."
             },
             {
                 "pitch": -5,
                 "yaw": -70,
                 "type": "info",
-                "text": "Info about Office of The President"
+                "text": "Primary administrative office for the Head of the Institution."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Info about Accreditation Center"
+                "text": "Office responsible for preparing and managing institutional accreditation processes."
             },
             {
                 "pitch": -7,
@@ -2725,7 +2725,7 @@
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about Cyber Siena"
+                "text": "Likely a tech hub, internet cafe, or advanced computer facility for student/faculty use"
             },
             {
                 "pitch": -6,
@@ -2756,7 +2756,7 @@
                 "pitch": -6,
                 "yaw": 90,
                 "type": "info",
-                "text":"Info about Finance Office"
+                "text":"Handles all institutional financial transactions, billing, and disbursements."
             },
             {
                 "pitch": -6,
@@ -2788,13 +2788,13 @@
                 "pitch": -6,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Registrar's Office"
+                "text":"Manages student records, enrollment, class schedules, and transcripts."
             },
             {
                 "pitch": -6,
                 "yaw": 52,
                 "type": "info",
-                "text":"Info about Admission and Marketing Office"
+                "text":"Handles student recruitment, admissions, and institutional marketing/PR"
             },
             {
                 "pitch": -6,
@@ -2812,7 +2812,7 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text":"Info about Office of the Guidance Services"
+                "text":"Provides counseling, career guidance, and psychological support to students."
             }
         ]
     },
@@ -2825,13 +2825,13 @@
                 "pitch": -6,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Registrar's Office"
+                "text":"Manages student records, enrollment, class schedules, and transcripts."
             },
             {
                 "pitch": -6,
                 "yaw": 52,
                 "type": "info",
-                "text":"Info about Admission and Marketing Office"
+                "text":"Handles student recruitment, admissions, and institutional marketing/PR."
             },
             {
                 "pitch": -6,
@@ -2849,7 +2849,7 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text":"Info about Office of the Guidance Services"
+                "text":"Provides counseling, career guidance, and psychological support to students."
             }
         ]
     },
@@ -2862,13 +2862,13 @@
                 "pitch": -6,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Registrar's Office"
+                "text":"Manages student records, enrollment, class schedules, and transcripts."
             },
             {
                 "pitch": -6,
                 "yaw": 52,
                 "type": "info",
-                "text":"Info about Admission and Marketing Office"
+                "text":"Handles student recruitment, admissions, and institutional marketing/PR."
             },
             {
                 "pitch": -6,
@@ -2886,7 +2886,7 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text":"Info about Office of the Guidance Services"
+                "text":"Provides counseling, career guidance, and psychological support to students."
             }
         ]
     },
@@ -2899,13 +2899,13 @@
                 "pitch": -6,
                 "yaw": 18,
                 "type": "info",
-                "text":"Info about Registrar's Office"
+                "text":"Manages student records, enrollment, class schedules, and transcripts."
             },
             {
                 "pitch": -6,
                 "yaw": -42,
                 "type": "info",
-                "text":"Info about Admission and Marketing Office"
+                "text":"Handles student recruitment, admissions, and institutional marketing/PR."
             },
             {
                 "pitch": -6,
@@ -2923,13 +2923,13 @@
                 "pitch": -10,
                 "yaw": 168,
                 "type": "scene",
-                "sceneId":"Multipurpose Room"
+                "sceneId":"Multipurpose Room/Testing Room"
             },
             {
                 "pitch": -5,
                 "yaw": 195,
                 "type": "info",
-                "text":"Info about Mindfulness Room"
+                "text":"Dedicated space for meditation, quiet reflection, or stress reduction."
             }
         ]
     },
@@ -2942,13 +2942,13 @@
                 "pitch": -6,
                 "yaw": 18,
                 "type": "info",
-                "text":"Info about Registrar's Office"
+                "text":"Manages student records, enrollment, class schedules, and transcripts."
             },
             {
                 "pitch": -6,
                 "yaw": -42,
                 "type": "info",
-                "text":"Info about Admission and Marketing Office"
+                "text":"Handles student recruitment, admissions, and institutional marketing/PR."
             },
             {
                 "pitch": -6,
@@ -2966,13 +2966,13 @@
                 "pitch": -10,
                 "yaw": 168,
                 "type": "scene",
-                "sceneId":"Multipurpose Room"
+                "sceneId":"Multipurpose Room/Testing Room"
             },
             {
                 "pitch": -5,
                 "yaw": 195,
                 "type": "info",
-                "text":"Info about Mindfulness Room"
+                "text":"Dedicated space for meditation, quiet reflection, or stress reduction."
             }
         ]
     },
@@ -2985,7 +2985,7 @@
                 "pitch": -6,
                 "yaw": 65,
                 "type": "info",
-                "text":"Info about Multipurpose Room"
+                "text":"Versatile room primarily used for administering large group examinations."
             },
             {
                 "pitch": 2,
@@ -3017,7 +3017,7 @@
                 "pitch": -6,
                 "yaw": -60,
                 "type": "info",
-                "text":"Info about Instructional Media Center Office"
+                "text":"Office managing the audio-visual equipment and teaching aids for the faculty."
             },
             {
                 "pitch": -9,
@@ -3037,7 +3037,7 @@
                 "yaw": 20,
                 "type": "scene",
                 "text":"Go to 1st Floor",
-                "sceneId":"Multipurpose Room"
+                "sceneId":"Multipurpose Room/Testing Room"
             }
         ]
     },
@@ -3050,19 +3050,19 @@
                 "pitch": -6,
                 "yaw": -32,
                 "type": "info",
-                "text":"Info about Instructional Media Center Office"
+                "text":"Office managing the audio-visual equipment and teaching aids for the faculty."
             },
             {
                 "pitch": -6,
                 "yaw": -153,
                 "type": "info",
-                "text":"Info about Instructional Media Center Office"
+                "text":"Office managing the audio-visual equipment and teaching aids for the faculty."
             },
             {
                 "pitch": -6,
                 "yaw": 148,
                 "type": "info",
-                "text":"Info about Grade School Learning Resource Center / Library"
+                "text":"The library specifically for Grade School students."
             },
             {
                 "pitch": -6,
@@ -3087,19 +3087,19 @@
                 "pitch": -6,
                 "yaw": -32,
                 "type": "info",
-                "text":"Info about Instructional Media Center Office"
+                "text":"Office managing the audio-visual equipment and teaching aids for the faculty."
             },
             {
                 "pitch": -6,
                 "yaw": -153,
                 "type": "info",
-                "text":"Info about Instructional Media Center Office"
+                "text":"Office managing the audio-visual equipment and teaching aids for the faculty."
             },
             {
                 "pitch": -6,
                 "yaw": 148,
                 "type": "info",
-                "text":"Info about Grade School Learning Resource Center / Library"
+                "text":"The library specifically for Grade School students."
             },
             {
                 "pitch": -6,
@@ -3124,7 +3124,7 @@
                 "pitch": -6,
                 "yaw": 102,
                 "type": "info",
-                "text":"Info about CL/VE Faculty"
+                "text":"Faculty room for Christian Living and Values Education teachers."
             },
             {
                 "pitch": -12,
@@ -3149,13 +3149,13 @@
                 "pitch": -6,
                 "yaw": 115,
                 "type": "info",
-                "text":"Info about SDB203"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -6,
                 "yaw": 70,
                 "type": "info",
-                "text":"Info about Safety and Disaster Risk Management Office"
+                "text":"Manages institutional safety protocols, drills, and emergency response."
             },
             {
                 "pitch": -22,
@@ -3180,19 +3180,19 @@
                 "pitch": -5,
                 "yaw": 28,
                 "type": "info",
-                "text":"Info about Safety and Disaster Risk Management Office"
+                "text":"Manages institutional safety protocols, drills, and emergency response."
             },
             {
                 "pitch": -5,
                 "yaw": 138,
                 "type": "info",
-                "text":"Info about SDB203"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 45,
                 "type": "info",
-                "text":"Info about SDB203"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -3256,13 +3256,13 @@
                 "pitch": -5,
                 "yaw": -40,
                 "type": "info",
-                "text":"Info about SDB201"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text":"Info about SDB202"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -3287,13 +3287,13 @@
                 "pitch": -5,
                 "yaw": -40,
                 "type": "info",
-                "text":"Info about SDB201"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text":"Info about SDB202"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -3351,13 +3351,13 @@
                 "pitch": -5,
                 "yaw": -40,
                 "type": "info",
-                "text":"Info about SDB201"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text":"Info about SDB202"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -3423,7 +3423,7 @@
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about Science Faculty"
+                "text": "Faculty room for science teachers."
             },
             {
                 "pitch": -10,
@@ -3456,7 +3456,7 @@
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about Science Faculty"
+                "text": "Faculty room for science teachers."
             },
             {
                 "pitch": -10,
@@ -3481,19 +3481,19 @@
                 "pitch": -5,
                 "yaw": -53,
                 "type": "info",
-                "text": "Info about English Faculty"
+                "text": "Faculty room for English teachers."
             },
             {
                 "pitch": -5,
                 "yaw": -28,
                 "type": "info",
-                "text": "Info about MAPEH Faculty"
+                "text": "Faculty room for MAPEH (Music, Arts, P.E., Health) teachers."
             },
             {
                 "pitch": -5,
                 "yaw": 105,
                 "type": "info",
-                "text": "Info about AP And Filipino Faculty"
+                "text": "Faculty room for Araling Panlipunan and Filipino teachers."
             },
             {
                 "pitch": -10,
@@ -3518,19 +3518,19 @@
                 "pitch": -5,
                 "yaw": -53,
                 "type": "info",
-                "text": "Info about English Faculty"
+                "text": "Faculty room for English teachers."
             },
             {
                 "pitch": -5,
                 "yaw": -28,
                 "type": "info",
-                "text": "Info about MAPEH Faculty"
+                "text": "Faculty room for MAPEH (Music, Arts, P.E., Health) teachers."
             },
             {
                 "pitch": -5,
                 "yaw": 105,
                 "type": "info",
-                "text": "Info about AP And Filipino Faculty"
+                "text": "Faculty room for Araling Panlipunan and Filipino teachers."
             },
             {
                 "pitch": -10,
@@ -3555,19 +3555,19 @@
                 "pitch": -5,
                 "yaw": -53,
                 "type": "info",
-                "text": "Info about English Faculty"
+                "text": "Faculty room for English teachers."
             },
             {
                 "pitch": -5,
                 "yaw": -28,
                 "type": "info",
-                "text": "Info about MAPEH Faculty"
+                "text": "Faculty room for MAPEH (Music, Arts, P.E., Health) teachers."
             },
             {
                 "pitch": -5,
                 "yaw": 105,
                 "type": "info",
-                "text": "Info about AP and Filipino Faculty"
+                "text": "Faculty room for Araling Panlipunan and Filipino teachers."
             },
             {
                 "pitch": -10,
@@ -3592,13 +3592,13 @@
                 "pitch": -5,
                 "yaw": -38,
                 "type": "info",
-                "text": "Info about Reading Faculty"
+                "text": "Faculty room for Reading/Literacy teachers."
             },
             {
                 "pitch": -3,
                 "yaw": -152,
                 "type": "info",
-                "text": "Info about Science Laboratory Office"
+                "text": "Office for the Science Department Head or Laboratory Technician/Custodian."
             },
             {
                 "pitch": -15,
@@ -3630,19 +3630,19 @@
                 "pitch": -3,
                 "yaw": -115,
                 "type": "info",
-                "text": "Info about Science Laboratory Office"
+                "text": "Office for the Science Department Head or Laboratory Technician/Custodian."
             },
             {
                 "pitch": -3,
                 "yaw": -290,
                 "type": "info",
-                "text": "Info about Laboratory"
+                "text": "General laboratory, function depends on the scheduled class."
             },
             {
                 "pitch": -5,
                 "yaw": 28,
                 "type": "info",
-                "text": "Info about Integrated Science Laboratory"
+                "text": "Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -10,
@@ -3674,19 +3674,19 @@
                 "pitch": -3,
                 "yaw": -115,
                 "type": "info",
-                "text": "Info about Science Laboratory Office"
+                "text": "Office for the Science Department Head or Laboratory Technician/Custodian."
             },
             {
                 "pitch": -3,
                 "yaw": -290,
                 "type": "info",
-                "text": "Info about Laboratory"
+                "text": "General laboratory, function depends on the scheduled class."
             },
             {
                 "pitch": -5,
                 "yaw": 28,
                 "type": "info",
-                "text": "Info about Integrated Science Laboratory"
+                "text": "Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -10,
@@ -3719,7 +3719,7 @@
                 "pitch": -5,
                 "yaw": -145,
                 "type": "info",
-                "text": "Info about Laboratory"
+                "text": "General laboratory, function depends on the scheduled class."
             },
             {
                 "pitch": -10,
@@ -3738,13 +3738,13 @@
                 "pitch": -5,
                 "yaw": -15,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -5,
                 "yaw": -138,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -18,
@@ -3769,13 +3769,13 @@
                 "pitch": -5,
                 "yaw": -15,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -5,
                 "yaw": -138,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -18,
@@ -3800,13 +3800,13 @@
                 "pitch": -5,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text":"Info about Chemistry Laboratory"
+                "text":"Specialized laboratory for Chemistry subjects."
             },
             {
                 "pitch": -15,
@@ -3831,13 +3831,13 @@
                 "pitch": -5,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about Integrated Science Laboratory"
+                "text":"Science lab for general or integrated science subjects (e.g., Grade School/JHS)."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text":"Info about Chemistry Laboratory"
+                "text":"Specialized laboratory for Chemistry subjects."
             },
             {
                 "pitch": -15,
@@ -3862,19 +3862,19 @@
                 "pitch": -5,
                 "yaw": -5,
                 "type": "info",
-                "text":"Info about Professional Learning Community Room"
+                "text":"Dedicated space for faculty training, collaborative work, and professional development."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text":"Info about Exhibit Room <b>*SDB318</b>"
+                "text":"Space for displaying student projects, institutional history, or art exhibitions."
             },
             {
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text":"Info about Physics Laboratory"
+                "text":"Specialized laboratory for Physics subjects."
             },
             {
                 "pitch": -15,
@@ -3911,19 +3911,19 @@
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Professional Learning Community Room"
+                "text":"Dedicated space for faculty training, collaborative work, and professional development."
             },
             {
                 "pitch": -5,
                 "yaw": 5,
                 "type": "info",
-                "text":"Info about SDB316"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 188,
                 "type": "info",
-                "text":"Info about Physics Laboratory"
+                "text":"Specialized laboratory for Physics subjects."
             }
         ]
     },
@@ -3948,19 +3948,19 @@
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Professional Learning Community Room"
+                "text":"Dedicated space for faculty training, collaborative work, and professional development."
             },
             {
                 "pitch": -5,
                 "yaw": 5,
                 "type": "info",
-                "text":"Info about SDB316"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 188,
                 "type": "info",
-                "text":"Info about Physics Laboratory"
+                "text":"Specialized laboratory for Physics subjects."
             }
         ]
     },
@@ -3985,19 +3985,19 @@
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text":"Info about Professional Learning Community Room"
+                "text":"Dedicated space for faculty training, collaborative work, and professional development."
             },
             {
                 "pitch": -5,
                 "yaw": 5,
                 "type": "info",
-                "text":"Info about SDB316"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 188,
                 "type": "info",
-                "text":"Info about Physics Laboratory"
+                "text":"Specialized laboratory for Physics subjects."
             }
         ]
     },
@@ -4036,13 +4036,13 @@
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "Info about SDB315"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB315"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4067,13 +4067,13 @@
                 "pitch": -5,
                 "yaw": 128,
                 "type": "info",
-                "text": "Info about SDB312"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Info about SDB314"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4098,26 +4098,26 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Info about SDB311"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB312"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB313"
+                "text": "General Classrooms/Lecture Rooms."
             },
             
             {
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text": "Info about SDB314"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4142,26 +4142,26 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Info about SDB311"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB312"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB313"
+                "text": "General Classrooms/Lecture Rooms."
             },
             
             {
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text": "Info about SDB314"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4186,26 +4186,26 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Info about SDB311"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB312"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB313"
+                "text": "General Classrooms/Lecture Rooms."
             },
             
             {
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text": "Info about SDB314"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4238,13 +4238,13 @@
                 "pitch": -5,
                 "yaw": 30,
                 "type": "info",
-                "text": "Info about SDB311"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about SDB313"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4277,13 +4277,13 @@
                 "pitch": -5,
                 "yaw": -22,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 40,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4308,25 +4308,25 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text": "Info about SDB411"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB412"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about SDB414"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4351,25 +4351,25 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text": "Info about SDB411"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB412"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about SDB414"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4394,25 +4394,25 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text": "Info about SDB411"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB412"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about SDB414"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4437,25 +4437,25 @@
                 "pitch": -5,
                 "yaw": -125,
                 "type": "info",
-                "text": "Info about SDB411"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB412"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "Info about SDB414"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SDB413"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4487,13 +4487,13 @@
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text": "Info about Junior Level Leaders Office"
+                "text": "Office for the Junior Level Leaders (likely a student organization/leadership group). \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": 5,
                 "type": "info",
-                "text": "Info about High School Prefect of Student Formation Office"
+                "text": "Guidance/Discipline office specific to the High School level."
             }
             
         ]
@@ -4519,19 +4519,19 @@
                 "pitch": -5,
                 "yaw": 160,
                 "type": "info",
-                "text": "Info about Prefect of Student Formation Office"
+                "text": "Guidance/Discipline office specific to the High School level."
             },
             {
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text": "Info about SDB415"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -20,
                 "type": "info",
-                "text": "Info about SDB410"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4556,19 +4556,19 @@
                 "pitch": -5,
                 "yaw": 160,
                 "type": "info",
-                "text": "Info about Prefect of Student Formation Office"
+                "text": "Guidance/Discipline office specific to the High School level."
             },
             {
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text": "Info about SDB415"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -20,
                 "type": "info",
-                "text": "Info about SDB410"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4581,13 +4581,13 @@
                 "pitch": -5,
                 "yaw": -105,
                 "type": "info",
-                "text": "Info about SDB410"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Publication Office"
+                "text": "Office for the school/college newspaper, yearbook, or official publications."
             },
             {
                 "pitch": -10,
@@ -4612,13 +4612,13 @@
                 "pitch": -5,
                 "yaw": -105,
                 "type": "info",
-                "text": "Info about SDB410"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Publication Office"
+                "text": "Office for the school/college newspaper, yearbook, or official publications."
             },
             {
                 "pitch": -10,
@@ -4643,7 +4643,7 @@
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text": "Info about SDB409"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -7,
@@ -4686,25 +4686,25 @@
                 "pitch": -5,
                 "yaw": 28,
                 "type": "info",
-                "text": "Info about SDB401"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 226,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB408"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB407"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4735,25 +4735,25 @@
                 "pitch": -5,
                 "yaw": 28,
                 "type": "info",
-                "text": "Info about SDB401"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 226,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB408"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB407"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -4793,25 +4793,25 @@
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text":"Info about SDB407"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text": "Info about SDB406"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -6,
@@ -4836,25 +4836,25 @@
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text":"Info about SDB407"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text": "Info about SDB406"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -6,
@@ -4879,25 +4879,25 @@
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text":"Info about SDB407"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text": "Info about SDB406"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -6,
@@ -4922,25 +4922,25 @@
                 "pitch": -5,
                 "yaw": 122,
                 "type": "info",
-                "text":"Info about SDB407"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SDB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text": "Info about SDB406"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -6,
@@ -4965,13 +4965,13 @@
                 "pitch": -5,
                 "yaw": 270,
                 "type": "info",
-                "text": "Info about SDB405"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about SDB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -4997,13 +4997,13 @@
                 "pitch": -5,
                 "yaw": 270,
                 "type": "info",
-                "text": "Info about SDB405"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about SDB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -5036,7 +5036,7 @@
                 "pitch": -5,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about SDB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -5067,19 +5067,19 @@
                 "pitch": -5,
                 "yaw": -15,
                 "type": "info",
-                "text": "Info about SDB501"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -30,
                 "type": "info",
-                "text": "Info about SDB502"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about SDB503"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5104,19 +5104,19 @@
                 "pitch": -5,
                 "yaw": -15,
                 "type": "info",
-                "text": "Info about SDB501"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -30,
                 "type": "info",
-                "text": "Info about SDB502"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about SDB503"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5141,19 +5141,19 @@
                 "pitch": -5,
                 "yaw": -15,
                 "type": "info",
-                "text": "Info about SDB501"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -30,
                 "type": "info",
-                "text": "Info about SDB502"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about SDB503"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5172,7 +5172,7 @@
                 "pitch": -8,
                 "yaw": 100,
                 "type": "info",
-                "text" : "Info about SDB507"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -5184,13 +5184,13 @@
                 "pitch": -5,
                 "yaw": -30,
                 "type": "info",
-                "text": "Info about SDB503"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB504"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5209,7 +5209,7 @@
                 "pitch": -8,
                 "yaw": 100,
                 "type": "info",
-                "text" : "Info about SDB507"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -5221,13 +5221,13 @@
                 "pitch": -5,
                 "yaw": -30,
                 "type": "info",
-                "text": "Info about SDB503"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SDB504"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5246,13 +5246,13 @@
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text" : "Info about SDB506"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text" : "Info about SDB507"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
@@ -5265,13 +5265,13 @@
                 "pitch": -5,
                 "yaw": -20,
                 "type": "info",
-                "text": "Info about SDB504"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Info about SDB505"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5290,13 +5290,13 @@
                 "pitch": -5,
                 "yaw": 110,
                 "type": "info",
-                "text" : "Info about SDB506"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 75,
                 "type": "info",
-                "text" : "Info about SDB507"
+                "text" : "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
@@ -5309,13 +5309,13 @@
                 "pitch": -5,
                 "yaw": -20,
                 "type": "info",
-                "text": "Info about SDB504"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Info about SDB505"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5341,13 +5341,13 @@
                 "pitch": -5,
                 "yaw": 125,
                 "type": "info",
-                "text": "Info about SDB511"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB514"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5373,13 +5373,13 @@
                 "pitch": -5,
                 "yaw": 125,
                 "type": "info",
-                "text": "Info about SDB511"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": -25,
                 "type": "info",
-                "text": "Info about SDB514"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5399,19 +5399,19 @@
                 "pitch": -8,
                 "yaw": 8,
                 "type": "info",
-                "text":"Info about SDB513"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB512"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
                 "yaw": -42,
                 "type": "info",
-                "text": "Info about SDB514"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5431,19 +5431,19 @@
                 "pitch": -8,
                 "yaw": 8,
                 "type": "info",
-                "text":"Info about SDB513"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB512"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
                 "yaw": -42,
                 "type": "info",
-                "text": "Info about SDB514"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5463,19 +5463,19 @@
                 "pitch": -8,
                 "yaw": 8,
                 "type": "info",
-                "text":"Info about SDB513"
+                "text":"General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SDB512"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
                 "yaw": -42,
                 "type": "info",
-                "text": "Info about SDB514"
+                "text": "General Classrooms/Lecture Rooms."
             }
         ]
     },
@@ -5488,7 +5488,7 @@
                 "pitch": -2,
                 "yaw": 185,
                 "type": "info",
-                "text": "Info about Mikrotik Training Center"
+                "text": "Specialized laboratory or training facility, likely for networking/IT"
             },
             {
                 "pitch": -2,
@@ -5514,7 +5514,7 @@
                 "pitch": -2,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SCT Archives"
+                "text": "Storage and maintenance of institutional records and historical documents."
             },
             {
                 "pitch": -10,
@@ -5526,13 +5526,13 @@
                 "pitch": -2,
                 "yaw": 200,
                 "type": "info",
-                "text": "Info about Student Council Office"
+                "text": "Office for the student government of the IBED/Basic Education level."
             },
             {
                 "pitch": -2,
                 "yaw": 135,
                 "type": "info",
-                "text": "Info about SCT Assessment Center"
+                "text": "Facility for standardized testing, evaluation, and assessment activities."
             }
         ]
     },
@@ -5545,7 +5545,7 @@
                 "pitch": -2,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SCT Archives"
+                "text": "Storage and maintenance of institutional records and historical documents."
             },
             {
                 "pitch": -10,
@@ -5557,13 +5557,13 @@
                 "pitch": -2,
                 "yaw": 200,
                 "type": "info",
-                "text": "Info about Student Council Office"
+                "text": "Office for the student government of the IBED/Basic Education level."
             },
             {
                 "pitch": -2,
                 "yaw": 135,
                 "type": "info",
-                "text": "Info about SCT Assessment Center"
+                "text": "Facility for standardized testing, evaluation, and assessment activities."
             }
         ]
     },
@@ -5576,7 +5576,7 @@
                 "pitch": -2,
                 "yaw": 35,
                 "type": "info",
-                "text": "Info about SCT Archives"
+                "text": "Storage and maintenance of institutional records and historical documents."
             },
             {
                 "pitch": -10,
@@ -5588,13 +5588,13 @@
                 "pitch": -2,
                 "yaw": 200,
                 "type": "info",
-                "text": "Info about Student Council Office"
+                "text": "Office for the student government of the IBED/Basic Education level."
             },
             {
                 "pitch": -2,
                 "yaw": 135,
                 "type": "info",
-                "text": "Info about SCT Assessment Center"
+                "text": "Facility for standardized testing, evaluation, and assessment activities."
             }
         ]
     },
@@ -5670,13 +5670,13 @@
                 "pitch": -3,
                 "yaw": -83,
                 "type": "info",
-                "text": "Info about Salle de Conference Vibal 1"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -3,
                 "yaw": -68,
                 "type": "info",
-                "text": "Info about Salle de Conference Vibal 2"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -14,
@@ -5688,7 +5688,7 @@
                 "pitch": -3,
                 "yaw": 82,
                 "type": "info",
-                "text": "Info about Pastry Kitchen 1"
+                "text": "Specialized kitchen for teaching and practicing pastry and baking skills."
             },
             {
                 "pitch": -13,
@@ -5726,19 +5726,19 @@
                 "pitch": -5,
                 "yaw": 135,
                 "type":"info",
-                "text": "Info about Salle de Conference Vibal 1"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text": "Info about Salle de Conference Vibal 2"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -2,
                 "yaw": -5,
                 "type":"info",
-                "text": "Info about Pastry Kitchen 1"
+                "text": "Specialized kitchen for teaching and practicing pastry and baking skills."
             },
             {
                 "pitch": -6,
@@ -5775,19 +5775,19 @@
                 "pitch": -5,
                 "yaw": 135,
                 "type":"info",
-                "text": "Info about Salle de Conference Vibal 1"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text": "Info about Salle de Conference Vibal 2"
+                "text": "Conference rooms for meetings, seminars, and small group discussions. For OJT sessions for higher year purpose."
             },
             {
                 "pitch": -2,
                 "yaw": -5,
                 "type":"info",
-                "text": "Info about Pastry Kitchen 1"
+                "text": "Specialized kitchen for teaching and practicing pastry and baking skills."
             },
             {
                 "pitch": -6,
@@ -5843,13 +5843,13 @@
                 "pitch": -5,
                 "yaw": -17,
                 "type":"info",
-                "text":"Info about Hot Kitchen 1"
+                "text":"Specialized kitchens for teaching and practicing hot food preparation and culinary arts."
             },
             {
                 "pitch": -5,
                 "yaw": 38,
                 "type":"info",
-                "text":"Info about General Store Room"
+                "text":"General storage area for the building."
             },
             {
                 "pitch": -6,
@@ -5881,13 +5881,13 @@
                 "pitch": -5,
                 "yaw": -17,
                 "type":"info",
-                "text":"Info about Hot Kitchen 1"
+                "text":"Specialized kitchens for teaching and practicing hot food preparation and culinary arts."
             },
             {
                 "pitch": -5,
                 "yaw": 38,
                 "type":"info",
-                "text":"Info about General Store Room"
+                "text":"General storage area for the building."
             },
             {
                 "pitch": -6,
@@ -5919,7 +5919,7 @@
                 "pitch": -7,
                 "yaw": 42,
                 "type":"info",
-                "text":"Info about General Store Room"
+                "text":"General storage area for the building."
             },
             {
                 "pitch": -6,
@@ -6020,7 +6020,7 @@
                 "pitch": -5,
                 "yaw": 4,
                 "type":"info",
-                "text": "Info about CIHM Faculty Office"
+                "text": "Faculty work, preparation, and consultation area for the College of International Hospitality Management."
             },
             {
                 "pitch": -12,
@@ -6059,19 +6059,19 @@
                 "pitch": -5,
                 "yaw": 80,
                 "type":"info",
-                "text": "Info about CIHM Chairperson's Office"
+                "text": "<b>CIHM Chairperson's Office</b> \nAdministrative office for the Head/Chairperson of the CIHM department. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": 162,
                 "type":"info",
-                "text": "Info about Conference Hall 1"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text": "Info about Conference Hall 2"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": 0,
@@ -6110,19 +6110,19 @@
                 "pitch": -5,
                 "yaw": 80,
                 "type":"info",
-                "text": "Info about CIHM Chairperson's Office"
+                "text": "Administrative office for the Head/Chairperson of the CIHM department."
             },
             {
                 "pitch": -5,
                 "yaw": 162,
                 "type":"info",
-                "text": "Info about Conference Hall 1"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text": "Info about Conference Hall 2"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": 0,
@@ -6161,19 +6161,19 @@
                 "pitch": -5,
                 "yaw": 80,
                 "type":"info",
-                "text": "Info about CIHM Chairperson's Office"
+                "text": "Administrative office for the Head/Chairperson of the CIHM department."
             },
             {
                 "pitch": -5,
                 "yaw": 162,
                 "type":"info",
-                "text": "Info about Conference Hall 1"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text": "Info about Conference Hall 2"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": 0,
@@ -6212,13 +6212,13 @@
                 "pitch": -5,
                 "yaw": 120,
                 "type":"info",
-                "text": "Info about Conference Hall 3"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": -5,
                 "yaw": 70,
                 "type":"info",
-                "text": "Info about Conference Hall 2"
+                "text": "Larger halls/venues for banquets, events, or seminars."
             },
             {
                 "pitch": -8,
@@ -6269,13 +6269,13 @@
                 "pitch": -5,
                 "yaw": 210,
                 "type": "info",
-                "text":"Info about Hot Kitchen 2"
+                "text":"Specialized kitchens for teaching and practicing hot food preparation and culinary arts."
             },
             {
                 "pitch": -5,
                 "yaw": 292,
                 "type": "info",
-                "text":"Info about General Stock Room"
+                "text":"Inventory storage for kitchen and hospitality supplies."
             }
         ]
     },
@@ -6314,13 +6314,13 @@
                 "pitch": -5,
                 "yaw": 210,
                 "type": "info",
-                "text":"Info about Hot Kitchen 2"
+                "text":"Specialized kitchens for teaching and practicing hot food preparation and culinary arts."
             },
             {
                 "pitch": -5,
                 "yaw": 292,
                 "type": "info",
-                "text":"Info about General Stock Room"
+                "text":"Specialized kitchens for teaching and practicing hot food preparation and culinary arts."
             }
         ]
     },
@@ -6359,13 +6359,13 @@
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text":"Info about Pastry Kitchen 3"
+                "text":"Specialized kitchens for teaching and practicing pastry and baking skills."
             },
             {
                 "pitch": -5,
                 "yaw": 305,
                 "type": "info",
-                "text":"Info about Pastry Kitchen 2"
+                "text":"Specialized kitchens for teaching and practicing pastry and baking skills."
             }
         ]
     },
@@ -6404,13 +6404,13 @@
                 "pitch": -5,
                 "yaw": 180,
                 "type": "info",
-                "text":"Info about Pastry Kitchen 3"
+                "text":"Specialized kitchens for teaching and practicing pastry and baking skills."
             },
             {
                 "pitch": -5,
                 "yaw": 305,
                 "type": "info",
-                "text":"Info about Pastry Kitchen 2"
+                "text":"Specialized kitchens for teaching and practicing pastry and baking skills."
             }
         ]
     },
@@ -6423,7 +6423,7 @@
                 "pitch": -5,
                 "yaw":160,
                 "type":"info",
-                "text": "Info about Practicum Office"
+                "text": "Manages student internships, on-the-job training, and practicum placements for CIHM students."
             },
             {
                 "pitch": -18,
@@ -6455,13 +6455,13 @@
                 "pitch": -5,
                 "yaw":-60,
                 "type":"info",
-                "text": "Info about SJB302"
+                "text": "General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -5,
                 "yaw": 85,
                 "type":"info",
-                "text": "Info about SJB301"
+                "text": "General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -15,
@@ -6511,7 +6511,7 @@
                 "pitch": -5,
                 "yaw": 85,
                 "type":"info",
-                "text": "Info about SJB301"
+                "text": "General Classrooms/Lecture Rooms (3rd floor)."
             }
         ]
     },
@@ -6524,13 +6524,13 @@
                 "pitch": -12,
                 "yaw": -15,
                 "type":"info",
-                "text":"Info about SJB302"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -5,
                 "yaw": -75,
                 "type":"info",
-                "text": "Info about SJB303"
+                "text": "General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -8,
@@ -6555,19 +6555,19 @@
                 "pitch": -5,
                 "yaw": 20,
                 "type":"info",
-                "text":"Info about Big Hall 3"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 70,
                 "type":"info",
-                "text":"Info about Big Hall 2"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -8,
                 "yaw": 180,
                 "type":"info",
-                "text":"Info about SJB303"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -10,
@@ -6599,19 +6599,19 @@
                 "pitch": -5,
                 "yaw": 20,
                 "type":"info",
-                "text":"Info about Big Hall 3"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 70,
                 "type":"info",
-                "text":"Info about Big Hall 2"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -8,
                 "yaw": 180,
                 "type":"info",
-                "text":"Info about SJB303"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -10,
@@ -6656,13 +6656,13 @@
                 "pitch": -5,
                 "yaw": 180,
                 "type":"info",
-                "text":"Info about Big Hall 1"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -5,
                 "yaw": 235,
                 "type":"info",
-                "text":"Info about Big Hall 3"
+                "text":"Very large event spaces, potentially used for mock functions or large lectures."
             },
             {
                 "pitch": -8,
@@ -6687,7 +6687,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type":"info",
-                "text":"Info about SJB304"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -20,
@@ -6713,13 +6713,13 @@
                 "pitch": -5,
                 "yaw": 145,
                 "type":"info",
-                "text":"Info about SJB305"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -5,
                 "yaw": 200,
                 "type":"info",
-                "text":"Info about SJB304"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -10,
@@ -6744,13 +6744,13 @@
                 "pitch": -8,
                 "yaw": -95,
                 "type":"info",
-                "text":"Info about SJB306"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -5,
                 "yaw": -35,
                 "type":"info",
-                "text":"Info about SJB305"
+                "text":"General Classrooms/Lecture Rooms (3rd floor)."
             },
             {
                 "pitch": -8,
@@ -6775,7 +6775,7 @@
                 "pitch": -5,
                 "yaw": 0,
                 "type":"info",
-                "text":"Info about Fitness Room"
+                "text":"Facility for physical exercise and wellness, often used by staff and students."
             },
             {
                 "pitch": -5,
@@ -7236,13 +7236,13 @@
                 "pitch": -2,
                 "yaw": -90,
                 "type": "info",
-                "text":"Info about SCB204"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -3,
                 "yaw": -35,
                 "type": "info",
-                "text": "Info about SCB203"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -15,
@@ -7285,13 +7285,13 @@
                 "pitch": -2,
                 "yaw": -100,
                 "type": "info",
-                "text":"Info about SCB203"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -3,
                 "yaw": -50,
                 "type": "info",
-                "text": "Info about SCB202"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -12,
@@ -7328,13 +7328,13 @@
                 "pitch": -5,
                 "yaw": -95,
                 "type": "info",
-                "text":"Info about SCB201"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": -148,
                 "type": "info",
-                "text":"Info about SCB202"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -9,
@@ -7373,13 +7373,13 @@
                 "pitch": -5,
                 "yaw": -95,
                 "type": "info",
-                "text":"Info about SCB201"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": -148,
                 "type": "info",
-                "text":"Info about SCB202"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -9,
@@ -7404,7 +7404,7 @@
                 "pitch": -5,
                 "yaw": -95,
                 "type": "info",
-                "text":"Info about SCB205"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -1,
@@ -7447,7 +7447,7 @@
                 "pitch": -5,
                 "yaw": -2,
                 "type": "info",
-                "text": "Info about Grade School Learning Resource Center"
+                "text": "The library specifically for Grade School students."
             },
             {
                 "pitch": -7,
@@ -7465,7 +7465,7 @@
                 "pitch": -12,
                 "yaw": -165,
                 "type": "info",
-                "text": "Info about SCB205"
+                "text": "Computer lab dedicated for Grade School students."
             },
             {
                 "pitch": -12,
@@ -7484,7 +7484,7 @@
                 "pitch": 0,
                 "yaw": 180,
                 "type": "info",
-                "text": "Info about SCB206"
+                "text": "Computer lab dedicated for High School students."
             },
             {
                 "pitch": -10,
@@ -7534,7 +7534,7 @@
                 "pitch": -5,
                 "yaw": 25,
                 "type": "info",
-                "text": "Info about Grade School Prefect of Student Formation and Grade Level Leader"
+                "text": "Guidance/Discipline office specific to the Grade School level."
             },
             {
                 "pitch": -15,
@@ -7573,7 +7573,7 @@
                 "pitch": -5,
                 "yaw": -60,
                 "type": "info",
-                "text": "Info about SCB207"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -9,
@@ -7598,13 +7598,13 @@
                 "pitch": -5,
                 "yaw": -70,
                 "type": "info",
-                "text": "Info about SCB208"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "Info about SCB209"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -8,
@@ -7623,13 +7623,13 @@
                 "pitch": -5,
                 "yaw": -70,
                 "type": "info",
-                "text": "Info about SCB208"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "Info about SCB209"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -8,
@@ -7648,7 +7648,7 @@
                 "pitch": -5,
                 "yaw": 80,
                 "type": "info",
-                "text": "Info about Mimeographing Room"
+                "text": "Room for printing, duplication, and reproducing learning materials/handouts."
             },
             {
                 "pitch": -6,
@@ -7687,13 +7687,13 @@
                 "pitch": -5,
                 "yaw": 100,
                 "type": "info",
-                "text": "Info about SCB308"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": 168,
                 "type": "info",
-                "text":"Info about SCB307"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7718,13 +7718,13 @@
                 "pitch": -5,
                 "yaw": 100,
                 "type": "info",
-                "text": "Info about SCB308"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": 168,
                 "type": "info",
-                "text":"Info about SCB307"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7749,13 +7749,13 @@
                 "pitch": -5,
                 "yaw": 85,
                 "type": "info",
-                "text": "Info about SCB309"
+                "text": "Dedicated science lab for Grade School level experiments and projects."
             },
             {
                 "pitch": -4,
                 "yaw": 148,
                 "type": "info",
-                "text":"Info about SCB308"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7774,13 +7774,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about SCB306"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": 148,
                 "type": "info",
-                "text":"Info about SCB305"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
@@ -7812,13 +7812,13 @@
                 "pitch": -5,
                 "yaw": 100,
                 "type": "info",
-                "text": "Info about SCB305"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": 155,
                 "type": "info",
-                "text":"Info about SCB304"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -9,
@@ -7843,13 +7843,13 @@
                 "pitch": -5,
                 "yaw": -105,
                 "type": "info",
-                "text": "Info about SCB304"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": -55,
                 "type": "info",
-                "text":"Info about SCB303"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7874,13 +7874,13 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Info about SCB303"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about SCB302"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7905,13 +7905,13 @@
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Info about SCB302"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -4,
                 "yaw": -15,
                 "type": "info",
-                "text":"Info about SCB301"
+                "text":"General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -10,
@@ -7936,7 +7936,7 @@
                 "pitch": -5,
                 "yaw": -35,
                 "type": "info",
-                "text": "Info about SCB301"
+                "text": "General Classrooms/Lecture Rooms (likely Grade School)."
             },
             {
                 "pitch": -9,
@@ -7969,13 +7969,13 @@
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SCB401"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SCB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8008,13 +8008,13 @@
                 "pitch": -5,
                 "yaw": 170,
                 "type": "info",
-                "text": "Info about SCB401"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SCB402"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8047,13 +8047,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about SCB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 142,
                 "type": "info",
-                "text": "Info about SCB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8078,13 +8078,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about SCB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 142,
                 "type": "info",
-                "text": "Info about SCB403"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8109,13 +8109,13 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about SCB405"
+                "text": "Specialized lab for improving language proficiency, pronunciation, and public speaking skills."
             },
             {
                 "pitch": -5,
                 "yaw": 142,
                 "type": "info",
-                "text": "Info about SCB404"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8140,20 +8140,19 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Info about Math Faculty"
+                "text": "Faculty room for Mathematics teachers."
             },
             {
                 "pitch": -5,
                 "yaw": 150,
                 "type": "info",
-                "text": "Info about SCB405"
+                "text": "Specialized lab for improving language proficiency, pronunciation, and public speaking skills."
             },
             {
                 "pitch": -4,
                 "yaw": -5,
                 "type": "info",
-                "text": "Info about the Principal's Office",
-                "sceneId":"Principal's Office"
+                "text": "Primary administrative office for the Principal (likely Grade School)."
             },
             {
                 "pitch": -6,
@@ -8185,13 +8184,13 @@
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Info about Principal's Office"
+                "text": "Primary administrative office for the Principal (likely Grade School)."
             },
             {
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "Info about Math Faculty"
+                "text": "Faculty room for Mathematics teachers."
             },
             {
                 "pitch": -15,
@@ -8224,13 +8223,13 @@
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SCB501"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Info about SCB502"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8256,13 +8255,13 @@
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "Info about SCB501"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Info about SCB502"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8281,13 +8280,13 @@
                 "pitch": -5,
                 "yaw": 300,
                 "type": "info",
-                "text": "Info about SCB503"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 240,
                 "type": "info",
-                "text": "Info about SCB504"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -8312,13 +8311,13 @@
                 "pitch": -5,
                 "yaw": 300,
                 "type": "info",
-                "text": "Info about SCB503"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 240,
                 "type": "info",
-                "text": "Info about SCB504"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -10,
@@ -8343,13 +8342,13 @@
                 "pitch": -5,
                 "yaw": 250,
                 "type": "info",
-                "text": "Info about SCB506"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 320,
                 "type": "info",
-                "text": "Info about SCB505"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8375,13 +8374,13 @@
                 "pitch": -5,
                 "yaw": 250,
                 "type": "info",
-                "text": "Info about SCB506"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -5,
                 "yaw": 320,
                 "type": "info",
-                "text": "Info about SCB505"
+                "text": "General Classrooms/Lecture Rooms."
             },
             {
                 "pitch": -8,
@@ -8407,13 +8406,13 @@
                 "pitch": -5,
                 "yaw": 35,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 1"
+                "text":"Lab for Home Economics/Nutrition classes to practice food preparation and safety."
             },
             {
                 "pitch": -1,
                 "yaw": -57,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 2"
+                "text":"Lab for Home Economics/Nutrition classes to practice food preparation and safety."
             },
             {
                 "pitch": -6,
@@ -8471,13 +8470,13 @@
                 "pitch": 0,
                 "yaw": 170,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 2"
+                "text":"Secondary lab for food preparation/nutrition classes."
             },
             {
                 "pitch": 0,
                 "yaw": 250,
                 "type": "info",
-                "text":"Info about Wellness Room"
+                "text":"Dedicated space for health checks, basic first aid, and wellness activities (e.g., stretching, quiet rest)."
             },
             {
                 "pitch": -5,
@@ -8502,13 +8501,13 @@
                 "pitch": 0,
                 "yaw": 170,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 2"
+                "text":"Secondary lab for food preparation/nutrition classes."
             },
             {
                 "pitch": 0,
                 "yaw": 250,
                 "type": "info",
-                "text":"Info about Wellness Room"
+                "text":"Dedicated space for health checks, basic first aid, and wellness activities (e.g., stretching, quiet rest)."
             },
             {
                 "pitch": -5,
@@ -8533,7 +8532,7 @@
                 "pitch": -5,
                 "yaw": 0,
                 "type": "info",
-                "text":"Info about Auditorium"
+                "text":"Large hall for institutional events, commencement ceremonies, performances, and large lectures."
             },
             {
                 "pitch": -5,
@@ -8571,7 +8570,7 @@
                 "pitch": 0,
                 "yaw": 170,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 2"
+                "text":"Secondary lab for food preparation/nutrition classes."
             },
             {
                 "pitch": -15,
@@ -8583,13 +8582,13 @@
                 "pitch": 0,
                 "yaw": -100,
                 "type": "info",
-                "text":"Info about Sewing Room"
+                "text":"Specialized room for Technology and Livelihood Education (TLE) classes involving sewing/garments."
             },
             {
                 "pitch": -5,
                 "yaw": -40,
                 "type": "info",
-                "text":"Info about Nutrition Laboratory 1"
+                "text":"Lab for Home Economics/Nutrition classes to practice food preparation and safety."
             },
             {
                 "pitch": -10,
@@ -8724,13 +8723,13 @@
                 "pitch": 0,
                 "yaw": 0,
                 "type": "info",
-                "text": "Info about Mother Francisca Outreach Center"
+                "text": "Office or area dedicated to community service, social work, or charity programs."
             },
             {
                 "pitch": 0,
                 "yaw": -40,
                 "type": "info",
-                "text": "Info about Sewing Center"
+                "text": "Area equipped for sewing projects, likely for skills training or operational functions happening at SCT."
             },
             {
                 "pitch": 0,
@@ -8763,13 +8762,13 @@
                 "pitch": 0,
                 "yaw": 0,
                 "type": "info",
-                "text": "Info about Mother Francisca Outreach Center"
+                "text": "Office or area dedicated to community service, social work, or charity programs."
             },
             {
                 "pitch": 0,
                 "yaw": -40,
                 "type": "info",
-                "text": "Info about Sewing Center"
+                "text": "Area equipped for sewing projects, likely for skills training or operational functions happening at SCT."
             },
             {
                 "pitch": 0,
@@ -8789,13 +8788,13 @@
                 "pitch": 0,
                 "yaw": -95,
                 "type": "info",
-                "text": "Info about Room 102"
+                "text": "General Classrooms (1st floor)."
             },
             {
                 "pitch": 0,
                 "yaw": -150,
                 "type": "info",
-                "text": "Info about Room 101"
+                "text": "General Classrooms (1st floor)."
             },
             {
                 "pitch": -10,
@@ -8832,13 +8831,13 @@
                 "pitch": 0,
                 "yaw": -95,
                 "type": "info",
-                "text": "Info about Room 102"
+                "text": "General Classrooms (1st floor)."
             },
             {
                 "pitch": 0,
                 "yaw": -150,
                 "type": "info",
-                "text": "Info about Room 101"
+                "text": "General Classrooms (1st floor)."
             },
             {
                 "pitch": -10,
@@ -8875,7 +8874,7 @@
                 "pitch": 0,
                 "yaw": -110,
                 "type": "info",
-                "text": "Info about Computer Laboratory - Kinder"
+                "text": "Computer lab designed with resources and software appropriate for Kindergarten students."
             },
             {
                 "pitch": -7,
@@ -8912,7 +8911,7 @@
                 "pitch": 0,
                 "yaw": -95,
                 "type": "info",
-                "text": "Info about Faculty Room"
+                "text": "Faculty work, preparation, and consultation area for the Mother Natividad (Early Ed) teachers."
             },
             {
                 "pitch": -10,
@@ -8975,7 +8974,7 @@
                 "pitch": 0,
                 "yaw": 0,
                 "type": "info",
-                "text":"Info about Playground"
+                "text":"Outdoor or covered area designed for recreational activities and physical education."
             },
             {
                 "pitch": -4,
@@ -9020,13 +9019,13 @@
                 "pitch": 0,
                 "yaw": -135,
                 "type": "info",
-                "text":"Info about Room 203"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": 0,
                 "yaw": 145,
                 "type": "info",
-                "text":"Info about Room 204"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": -4,
@@ -9051,13 +9050,13 @@
                 "pitch": -3,
                 "yaw": -145,
                 "type": "info",
-                "text":"Info about Room 202"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": 0,
                 "yaw": 145,
                 "type": "info",
-                "text":"Info about Room 203"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": -10,
@@ -9082,7 +9081,7 @@
                 "pitch": -3,
                 "yaw": -145,
                 "type": "info",
-                "text":"Info about Room 202"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": -10,
@@ -9094,7 +9093,7 @@
                 "pitch": -3,
                 "yaw": -115,
                 "type": "info",
-                "text":"Info about Room 201"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": -9,
@@ -9119,7 +9118,7 @@
                 "pitch": -3,
                 "yaw": 60,
                 "type": "info",
-                "text":"Info about Room 201"
+                "text":"General Classrooms (2nd floor)."
             },
             {
                 "pitch": -14,
@@ -9160,13 +9159,13 @@
                 "pitch": 0,
                 "yaw": 18,
                 "type": "info",
-                "text": "Info about Play Room"
+                "text": "Indoor space for early childhood development activities, games, and skills practices."
             },
             {
                 "pitch": 0,
                 "yaw": -45,
                 "type": "info",
-                "text": "Info about Casa Sebastiana"
+                "text": "Likely a specialized instruction room or administrative office, and usage of SCT agendas."
             },
             {
                 "pitch": -10,
@@ -9191,13 +9190,13 @@
                 "pitch": 0,
                 "yaw": 18,
                 "type": "info",
-                "text": "Info about Play Room"
+                "text": "Indoor space for early childhood development activities, games, and skills practices."
             },
             {
                 "pitch": 0,
                 "yaw": -45,
                 "type": "info",
-                "text": "Info about Casa Sebastiana"
+                "text": "Likely a specialized instruction room or administrative office, and usage of SCT agendas."
             },
             {
                 "pitch": -10,
@@ -9222,13 +9221,13 @@
                 "pitch": 0,
                 "yaw": 5,
                 "type": "info",
-                "text": "Info about Faculty Room"
+                "text": "Faculty work, preparation, and consultation area for the Mother Natividad (Early Ed) teachers."
             },
             {
                 "pitch": 0,
                 "yaw": 105,
                 "type": "info",
-                "text": "Info about Computer Laboratory - Kinder"
+                "text": "Computer lab designed with resources and software appropriate for Kindergarten students."
             },
             {
                 "pitch": -8,
@@ -9272,8 +9271,7 @@
                 "pitch": 0,
                 "yaw": -70,
                 "type": "info",
-                "text":"Info about Room 101",
-                "sceneId":"Path 16"
+                "text":"General Classrooms (1st floor)."
             },
             {
                 "pitch": -10,
@@ -9466,7 +9464,7 @@
                 "pitch": -3,
                 "yaw": -5,
                 "type": "info",
-                "text":"Info about Campus Ministry Office"
+                "text":"Office managing spiritual formation, religious activities, and community outreach."
             },
             {
                 "pitch": -15,
@@ -9498,7 +9496,7 @@
                 "pitch": -3,
                 "yaw": -5,
                 "type": "info",
-                "text":"Info about Campus Ministry Office"
+                "text":"Office managing spiritual formation, religious activities, and community outreach."
             },
             {
                 "pitch": -15,
@@ -9523,32 +9521,32 @@
                 "pitch": -4,
                 "yaw": 140,
                 "type": "scene",
-                "text":"Exit Research Development Center",
+                "text":"Go outside Research Development Center",
                 "sceneId":"Research Development Center"
             },
             {
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about Research Development Center Quality Assurance Center"
+                "text": "Facility supporting faculty and student research, development projects, and publications."
             },
             {
                 "pitch": -5,
                 "yaw": -92,
                 "type": "info",
-                "text": "Info about Defense Room"
+                "text": "Room dedicated for thesis, capstone, or dissertation defense presentations/ Feasib project relations."
             },
             {
                 "pitch": -5,
                 "yaw": 32,
                 "type": "info",
-                "text": "Info about Pantry"
+                "text": "Small kitchen/break area, likely for staff and faculty use."
             },
             {
                 "pitch": -5,
                 "yaw": 20,
                 "type": "info",
-                "text": "Info about HRM and D office"
+                "text": "Likely the Human Resource Management and Development Office (Staff/Faculty services)."
             }
         ]
     },
@@ -9561,32 +9559,32 @@
                 "pitch": -4,
                 "yaw": 140,
                 "type": "scene",
-                "text":"Exit Research Development Center",
+                "text":"Go outside Research Development Center",
                 "sceneId":"Research Development Center"
             },
             {
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about Research Development Center Quality Assurance Center"
+                "text": "Facility supporting faculty and student research, development projects, and publications."
             },
             {
                 "pitch": -5,
                 "yaw": -92,
                 "type": "info",
-                "text": "Info about Defense Room"
+                "text": "Room dedicated for thesis, capstone, or dissertation defense presentations/ Feasib project relations."
             },
             {
                 "pitch": -5,
                 "yaw": 32,
                 "type": "info",
-                "text": "Info about Pantry"
+                "text": "Small kitchen/break area, likely for staff and faculty use."
             },
             {
                 "pitch": -5,
                 "yaw": 20,
                 "type": "info",
-                "text": "Info about HRM and D office"
+                "text": "Likely the Human Resource Management and Development Office (Staff/Faculty services)."
             }
         ]
     },
@@ -9599,32 +9597,32 @@
                 "pitch": -4,
                 "yaw": 140,
                 "type": "scene",
-                "text":"Exit Research Development Center",
+                "text":"Go outside Research Development Center",
                 "sceneId":"Research Development Center"
             },
             {
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about Research Development Center Quality Assurance Center"
+                "text": "Facility supporting faculty and student research, development projects, and publications."
             },
             {
                 "pitch": -5,
                 "yaw": -92,
                 "type": "info",
-                "text": "Info about Defense Room"
+                "text": "Room dedicated for thesis, capstone, or dissertation defense presentations/ Feasib project relations."
             },
             {
                 "pitch": -5,
                 "yaw": 32,
                 "type": "info",
-                "text": "Info about Pantry"
+                "text": "Small kitchen/break area, likely for staff and faculty use."
             },
             {
                 "pitch": -5,
                 "yaw": 20,
                 "type": "info",
-                "text": "Info about HRM and D office"
+                "text": "Likely the Human Resource Management and Development Office (Staff/Faculty services)."
             }
         ]
     },
@@ -9637,32 +9635,32 @@
                 "pitch": -4,
                 "yaw": 140,
                 "type": "scene",
-                "text":"Exit Research Development Center",
+                "text":"Go outside Research Development Center",
                 "sceneId":"Research Development Center"
             },
             {
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "Info about Research Development Center Quality Assurance Center"
+                "text": "Facility supporting faculty and student research, development projects, and publications."
             },
             {
                 "pitch": -5,
                 "yaw": -92,
                 "type": "info",
-                "text": "Info about Defense Room"
+                "text": "Room dedicated for thesis, capstone, or dissertation defense presentations/ Feasib project relations."
             },
             {
                 "pitch": -5,
                 "yaw": 32,
                 "type": "info",
-                "text": "Info about Pantry"
+                "text": "Small kitchen/break area, likely for staff and faculty use."
             },
             {
                 "pitch": -5,
                 "yaw": 20,
                 "type": "info",
-                "text": "Info about HRM and D office"
+                "text": "Likely the Human Resource Management and Development Office (Staff/Faculty services)."
             }
         ]
     },
@@ -9675,13 +9673,13 @@
                 "pitch": -4,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about Institutional Student Affairs and Activities"
+                "text":"Office managing campus-wide student organizations and extra-curricular events."
             },
             {
                 "pitch": -3,
                 "yaw": -120,
                 "type": "info",
-                "text":"Info about Student Services Director Health Services Head"
+                "text":"Combined administrative office overseeing student services and the Health Services clinic."
             },
             {
                 "pitch": -10,
@@ -9706,13 +9704,13 @@
                 "pitch": -4,
                 "yaw": -35,
                 "type": "info",
-                "text":"Info about Institutional Student Affairs and Activities"
+                "text":"Office managing campus-wide student organizations and extra-curricular events."
             },
             {
                 "pitch": -3,
                 "yaw": -120,
                 "type": "info",
-                "text":"Info about Student Services Director Health Services Head"
+                "text":"Combined administrative office overseeing student services and the Health Services clinic."
             },
             {
                 "pitch": -10,
@@ -9737,7 +9735,7 @@
                 "pitch": -4,
                 "yaw": -60,
                 "type": "info",
-                "text":"Info about Health Services"
+                "text":"Clinic area staffed by nurses/doctors for basic medical attention and first aid."
             },
             {
                 "pitch": -15,
@@ -10044,8 +10042,7 @@
                 "pitch": -3,
                 "yaw": 35,
                 "type": "info",
-                "text":"Info about Sacristy 1",
-                "sceneId":"Path 10"
+                "text":"Preparation area for priests and storage of vestments/liturgical items for the Chapel."
             },
             {
                 "pitch": -6,
