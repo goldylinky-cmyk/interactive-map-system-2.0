@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "node1",
+      "x": 36.69791666666667,
+      "y": 18.272793270406044,
+      "name": "Node node1",
+      "type": "junction",
+      "connections": [
+        "path1"
+      ]
+    },
+    {
+      "id": "node2",
+      "x": 44.53125,
+      "y": 28.72497960254035,
+      "name": "Node node2",
+      "type": "junction",
+      "connections": [
+        "path1",
+        "path2"
+      ]
+    },
+    {
+      "id": "node3",
+      "x": 56.447916666666664,
+      "y": 15.159376065089445,
+      "name": "Node node3",
+      "type": "junction",
+      "connections": [
+        "path2"
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "id": "path1",
+      "start": "node1",
+      "end": "node2",
+      "distance": 13,
+      "walkable": true
+    },
+    {
+      "id": "path2",
+      "start": "node2",
+      "end": "node3",
+      "distance": 18,
+      "walkable": true
+    }
+  ]
+}
