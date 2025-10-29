@@ -7,6 +7,50 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- Navigation Guide overlay (shown on first load) -->
+  <div id="nav-guide-overlay" class="nav-guide-overlay" role="dialog" aria-modal="true" aria-label="Navigation Guide">
+    <div class="nav-guide-panel">
+      <button id="nav-guide-close" class="nav-guide-close" aria-label="Close navigation guide">✕</button>
+      <div class="nav-guide-left-card">
+        <h2>Siena College of Taytay Rizal 360 Virtual tour</h2>
+        <p>A Web-Based Interactive Map with a 360° Virtual Tour for Campus Navigation at Siena College of Taytay</p>
+      </div>
+      <div class="nav-guide-main">
+        <h3>Features</h3>
+        <div class="nav-icons-grid">
+          <div class="nav-icon">
+            <div class="icon-circle">🔍</div>
+            <div class="feature-title">Search function</div>
+            <div class="feature-desc">Quickly find rooms, offices, or buildings and jump directly to results.</div>
+          </div>
+
+          <div class="nav-icon">
+            <div class="icon-circle">🏛️</div>
+            <div class="feature-title">Clickable building icons</div>
+            <div class="feature-desc">Click map icons to open building pages or 360 viewers — e.g. <a href="pages/st.-albertus-magnus.html">St. Albertus Magnus</a>.</div>
+          </div>
+
+          <div class="nav-icon">
+            <div class="icon-circle">🧭</div>
+            <div class="feature-title">Shortest path</div>
+            <div class="feature-desc">Find the shortest route between two points on campus using the pathfinder.</div>
+          </div>
+
+          <div class="nav-icon">
+            <div class="icon-circle">➤</div>
+            <div class="feature-title">Arrow navigation</div>
+            <div class="feature-desc">Use arrows to move to nearby locations and navigate the map intuitively.</div>
+          </div>
+
+          <div class="nav-icon">
+            <div class="icon-circle">ℹ️</div>
+            <div class="feature-title">Info icon</div>
+            <div class="feature-desc">View site and room information, descriptions, and helpful links.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <header id="main-header">
   <div id="header-inner">
     <img src="assets/siena logo.png" alt="Siena College Taytay Logo" id="logo"/>

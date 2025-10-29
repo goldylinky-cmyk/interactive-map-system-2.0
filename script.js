@@ -11,7 +11,7 @@ function toCanvasCoords(coord, canvas) {
         y: coord.y / 100 * canvas.height
     };
 }
-
+let scale = 1.0;
 // === MAIN ===
 window.onload = () => {
     console.log("Campus map loaded.");
@@ -145,7 +145,20 @@ iconData.forEach(icon => {
 
 
     initPathFinder();
+    // Navigation guide behavior: allow close with the X button or Escape key
+  const navGuide = document.getElementById('nav-guide-overlay');
+  const navClose = document.getElementById('nav-guide-close');
+  if (navClose && navGuide) {
+    navClose.addEventListener('click', () => {
+      navGuide.classList.add('hidden');
+    });
+    // close on Escape
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') navGuide.classList.add('hidden');
+    });
+  }
 };
+
 
 function initPathFinder() {
     const pathFinder = new PathFinder();
@@ -738,7 +751,6 @@ if (searchInput && resultsList) {
     });
   });
 }
-
 
 const zoomStep = 0.25;
 const minZoom = 0.6;

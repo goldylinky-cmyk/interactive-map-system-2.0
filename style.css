@@ -5,6 +5,128 @@ body {
     background:#fcf8e1
 }
 
+/* Navigation Guide overlay styles */
+.nav-guide-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.35);
+  z-index: 2000;
+  padding: 1rem;
+}
+.nav-guide-panel {
+  width: 95%;
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 1rem;
+  background: #8e0101; /* maroon panel */
+  color: #fff;
+  padding: 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  position: relative;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+.nav-guide-close {
+  position: absolute;  /* Changed to fixed */
+  right: 15px;
+  top: 15px;
+  background: rgba(142, 1, 1, 0.9);  /* Semi-transparent maroon background */
+  color: #fff;
+  border: 2px solid rgba(255,255,255,0.5);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  z-index: 2001;  /* Increased z-index */
+  backdrop-filter: blur(2px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+.nav-guide-left-card{
+  background: #fff;
+  color: #333;
+  padding: 1rem;
+  border-radius: 6px;
+  position: relative;  /* Added position relative */
+  margin-top: 10px;  /* Added top margin */
+}
+.nav-guide-left-card h2{ margin: 0 0 0.5rem 0; color:#8e0101 }
+.nav-guide-main h3{ margin: 0 0 1rem 0; text-align:center; font-size:1.25rem }
+.nav-icons-grid{ display:flex; flex-wrap:wrap; gap:18px; justify-content:space-around; align-items:flex-start; margin-bottom:1rem }
+.nav-icon{ display:flex; flex-direction:column; align-items:flex-start; width:180px; background: rgba(255,255,255,0.07); padding:10px; border-radius:6px }
+.icon-circle{ width:56px; height:56px; border-radius:50%; border:2px solid rgba(255,255,255,0.6); display:flex; align-items:center; justify-content:center; font-size:22px; font-weight:bold; margin-bottom:8px }
+.feature-title{ font-weight:700; margin-bottom:4px }
+.feature-desc{ font-size:0.88rem; opacity:0.95 }
+.nav-guide-bullets{ list-style:disc; padding-left:1.25rem; opacity:0.95; font-size:0.95rem }
+
+@media screen and (max-width: 900px){
+  .nav-guide-overlay { padding: 0.75rem; }
+  .nav-guide-panel { 
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    width: 100%;
+  }
+  .nav-guide-left-card { 
+    order: -1;
+    padding: 0.75rem;
+  }
+  .nav-guide-main h3 { font-size: 1.1rem; }
+  .nav-icon { 
+    width: 100%;
+    align-items: flex-start;
+    margin-bottom: 0.5rem;
+  }
+  .icon-circle {
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+  }
+  .feature-title { font-size: 0.95rem; }
+  .feature-desc { font-size: 0.85rem; }
+}
+
+/* Additional mobile improvements */
+@media screen and (max-width: 480px) {
+  .nav-guide-overlay { 
+    padding: 0.5rem; 
+    padding-top: 3rem;  /* Added space for fixed close button */
+  }
+  .nav-guide-panel {
+    padding: 0.75rem;
+    gap: 0.75rem;
+    margin-top: 0.5rem;  /* Added top margin */
+  }
+  .nav-guide-left-card {
+    padding: 0.5rem;
+    width: 100%;  /* Ensure full width */
+  }
+  .nav-guide-left-card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.25rem;
+    padding-right: 30px;  /* Space for close button */
+  }
+  .nav-guide-main h3 { font-size: 1rem; }
+  .nav-icons-grid { gap: 12px; }
+  .nav-icon {
+    padding: 8px;
+    margin-bottom: 0.25rem;
+  }
+  .icon-circle {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+  .feature-title { font-size: 0.9rem; }
+  .feature-desc { font-size: 0.8rem; }
+}
+
 header {
   padding: 1%;
   color: #ffffff;
