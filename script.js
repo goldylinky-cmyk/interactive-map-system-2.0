@@ -522,12 +522,12 @@ const hoursMap = {
   "Office of the Guidance Services": { open: "07:00", close: "16:00" },
   "Registrar's Office": { open: "07:00", close: "16:00" },
   "Admission and Marketing": { open: "07:00", close: "16:00" },
-  "Catharsis Room": { open: "07:00", close: "16:00" },
   "Mindfulness Room": { open: "07:00", close: "19:00" },
   "Multipurpose Room": { open: "07:00", close: "19:00" },
   "Instructional Media Center Office": { open: "07:00", close: "16:00" },
   "GS LRC": { open: "07:00", close: "19:00" },
-  "CL VE Faculty": { open: "07:00", close: "16:00" },
+  "Grade School Library": { open: "07:00", close: "19:00" },
+  "CL/VE Faculty": { open: "07:00", close: "16:00" },
   "Safety and Disaster Risk Management Office": { open: "07:00", close: "16:00" },
   "SDB201": { open: "07:00", close: "19:00" },
   "SDB202": { open: "07:00", close: "19:00" },
@@ -554,8 +554,9 @@ const hoursMap = {
   "MAPEH Faculty": { open: "07:00", close: "16:00" },
   "Science Faculty": { open: "07:00", close: "16:00" },
   "TLE/ICT Area": { open: "07:00", close: "19:00" },
-  "SHS Year Level Leader": { open: "07:00", close: "16:00" },
-  "SHS Prefect of Formation": { open: "07:00", close: "16:00" },
+  "TLE Faculty": { open: "07:00", close: "19:00" },
+  "SHS Year Level": { open: "07:00", close: "16:00" },
+  "SHS Prefect Formation": { open: "07:00", close: "16:00" },
   "SDB401": { open: "07:00", close: "19:00" },
   "SDB402": { open: "07:00", close: "19:00" },
   "SDB403": { open: "07:00", close: "19:00" },
@@ -717,11 +718,19 @@ if (searchInput && resultsList) {
     resultsList.innerHTML = "";
     if (val.length < 2) return;
 
-    const matches = rooms.filter(r =>
-      (r.code || "").toLowerCase().includes(val) ||
-      (r.name || "").toLowerCase().includes(val) ||
-      (r.building || "").toLowerCase().includes(val)
-    );
+    const matches = rooms.filter(r => {
+  
+  const searchableText = [
+    r.code || "",
+    r.name || "", 
+    r.building || "",
+    
+    r.building?.replace("St. ", "") || "", 
+    r.building?.replace("St. ", "Saint ") || "" 
+  ].join(" ").toLowerCase().trim();
+  const searchWords = val.split(/\s+/).filter(word => word.length > 1);
+  return searchWords.every(word => searchableText.includes(word));
+});
 
     matches.forEach(match => {
       const li = document.createElement("li");

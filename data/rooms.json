@@ -1,911 +1,906 @@
 [
   {
-    "code": "CEIT Faculty Room",
+    "code": "CEIT Faculty Room - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CEIT Chairperson Room",
-    "name": "CEIT Chairperson Room",
-    "building": "St. Albertus Magnus"
-  },
-  {
-    "code": "Mikrotik Academy",
-    "name": "Mikrotik Academy",
-    "building": "St. Albertus Magnus"
-  },
-  {
-    "code": "CEIT Equipment Room",
+    "code": "CEIT Chairperson Room - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Electronic and Circuits Laboratory",
+    "code": "Mikrotik Academy - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CEIT Lecture Room",
+    "code": "CEIT Equipment Room - 5th Floor",
+    "name": "",
+    "building": "St. Albertus Magnus"
+  },
+  {
+    "code": "Electronic and Circuits Laboratory - 5th Floor",
+    "name": "",
+    "building": "St. Albertus Magnus"
+  },
+  {
+    "code": "CEIT Lecture Room - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
    {
-    "code": "Drawing Laboratory",
+    "code": "Drawing Laboratory - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Mac Laboratory",
+    "code": "Mac Laboratory - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CEIT Computer Laboratory",
+    "code": "CEIT Computer Laboratory - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Storage Room",
+    "code": "Storage Room - 5th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CBA Faculty Room",
+    "code": "CBA Faculty Room - 4th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CBA Chairperson Room",
+    "code": "CBA Chairperson Room - 4th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM401",
+    "code": "ALM401 - 4th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM402",
+    "code": "ALM402 - 4th Floor",
     "name": "CBA Room 402",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM403",
+    "code": "ALM403 - 4th Floor",
     "name": "CBA Room 403",
     "building": "St. Albertus Magnus"  
   },
   {
-    "code": "ALM404",
+    "code": "ALM404 - 4th Floor",
     "name": "CBA Room 404",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM405",
+    "code": "ALM405 - 4th Floor",
     "name": "CBA Room 405",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Business Stimulation Office",
+    "code": "Business Stimulation Office - 4th Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Conference Room",
+    "code": "Conference Room - 3rd Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Learning Resource Center",
+    "code": "Learning Resource Center - 3rd Floor",
     "name": "Library",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Computer Laboratory",
-    "name": "Computer Laboratory",
-    "building": "St. Albertus Magnus"
-  },
-  {
-    "code": "Prefect of Student Formation and Activities",
+    "code": "Computer Laboratory - 3rd Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CON Faculty Room",
+    "code": "Prefect of Student Formation and Activities - 3rd Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "CON Chairperson Room",
+    "code": "CON Faculty Room - 2nd Floor",
+    "name": "",
+    "building": "St. Albertus Magnus"
+  },
+  {
+    "code": "CON Chairperson Room - 2nd Floor",
     "name": "Dean College of Nursing",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM201a",
-    "name": "Nursing Laboratory 1 - 2nd Floor",
+    "code": "ALM201a - 2nd Floor",
+    "name": "Nursing Laboratory",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM201b",
+    "code": "ALM201b - 2nd Floor",
     "name": "Nursing Arts Lab 1",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM202a",
+    "code": "ALM202a - 2nd Floor",
     "name": "Nursing Laboratory 2",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM202b",
+    "code": "ALM202b - 2nd Floor",
     "name": "Nursing Arts Lab 2",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Anatomy Room",
+    "code": "Anatomy Room - 2nd Floor",
     "name": "Anatomy Room",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Student Affairs and Activities",
-    "name": "Student Affairs and Activities",
-    "building": "St. Albertus Magnus"
-  },
-  {
-    "code": "COE Faculty Room",
+    "code": "Student Affairs and Activities - 2nd Floor",
     "name": "",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "COE Chairperson Room",
+    "code": "COE Faculty Room - 1st Floor",
+    "name": "",
+    "building": "St. Albertus Magnus"
+  },
+  {
+    "code": "COE Chairperson Room - 1st Floor",
     "name": "COE Chairperson Room",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM101",
+    "code": "ALM101 - 1st Floor",
     "name": "Micro-Teaching Laboratory",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM102",
+    "code": "ALM102 - 1st Floor",
     "name": "COE Room 102",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM103",
+    "code": "ALM103 - 1st Floor",
     "name": "COE Room 103",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM104",
+    "code": "ALM104 - 1st Floor",
     "name": "COE Room 104",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "ALM105",
+    "code": "ALM105 - 1st Floor",
     "name": "COE Room 105",
     "building": "St. Albertus Magnus"
   },
   {
-    "code": "Flambeau Publications",
-    "name": "Flambeau Publications",
+    "code": "Flambeau Publications - 1st Floor",
+    "name": "",
     "building": "St. Albertus Magnus"
   },
   {
     "code": "Electrical Room",
-    "name": "Electrical Room",
-    "building": "St. Albertus Magnus"
-  },
-  {
-    "code": "St. Albertus Magnus Canteen",
     "name": "",
     "building": "St. Albertus Magnus"
   },
-    {
-    "code": "STB101",
+  {
+    "code": "St. Albertus Magnus Canteen - 1st Floor",
     "name": "",
-    "building": "St. Thomas Aquinas"
-  },
-    {
-    "code": "STB102",
-    "name": "",
-    "building": "St. Thomas Aquinas"
+    "building": "St. Albertus Magnus"
   },
     {
-    "code": "STB103",
-    "name": "",
-    "building": "St. Thomas Aquinas"
-  },
-  {
-    "code": "Office of the Principal and Subject Area Coordinators",
-    "name": "",
-    "building": "St. Thomas Aquinas"
-  },
-  {
-    "code": "Office of the Dean",
-    "name": "",
-    "building": "St. Thomas Aquinas"
-  },
-  {
-    "code": "Office of the NSTP Coordinator",
-    "name": "",
-    "building": "St. Thomas Aquinas"
-  },
-  {
-    "code": "STB201",
+    "code": "STB101 - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
     {
-    "code": "STB202",
+    "code": "STB102 - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
     {
-    "code": "STB203",
+    "code": "STB103 - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB204",
+    "code": "Office of the Principal and Subject Area Coordinators - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB205",
+    "code": "Office of the Dean - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB301",
+    "code": "Office of the NSTP Coordinator - 1st Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "SHS and JHS Library",
+    "code": "STB201 - 2nd Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+    {
+    "code": "STB202 - 2nd Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+    {
+    "code": "STB203 - 2nd Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB401",
+    "code": "STB204 - 2nd Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB402",
+    "code": "STB205 - 2nd Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB403",
+    "code": "STB301 - 3rd Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB404",
+    "code": "SHS and JHS Library - 3rd Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+  {
+    "code": "STB401 - 4th Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+  {
+    "code": "STB402 - 4th Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+  {
+    "code": "STB403 - 4th Floor",
+    "name": "",
+    "building": "St. Thomas Aquinas"
+  },
+  {
+    "code": "STB404 - 4th Floor",
     "name": "Physical Science Laboratory",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB405",
+    "code": "STB405 - 4th Floor",
     "name": "Biological Science Laboratory",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB501",
+    "code": "STB501 - 5th Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB502",
+    "code": "STB502 - 5th Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB503",
+    "code": "STB503 - 5th Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB504",
+    "code": "STB504 - 5th Floor",
     "name": "AudioVisual Room",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB505",
+    "code": "STB505 - 5th Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "STB506",
+    "code": "STB506 - 5th Floor",
     "name": "",
     "building": "St. Thomas Aquinas"
   },
   {
-    "code": "Casa Antonia-Training Hotel",
+    "code": "Casa Antonia-Training Hotel - Ground Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Nutrition Laboratory 1",
+    "code": "Nutrition Laboratory 1 - Ground Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Sewing Room",
+    "code": "Sewing Room - Ground Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Wellness Room",
+    "code": "Wellness Room - Ground Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Nutrition Laboratory 2",
+    "code": "Nutrition Laboratory 2 - Ground Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB201",
+    "code": "SCB201 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB202",
+    "code": "SCB202 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB203",
+    "code": "SCB203 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB204",
+    "code": "SCB204 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB205",
+    "code": "SCB205 - 2nd Floor",
     "name": "Grade School Computer lab",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB206",
+    "code": "SCB206 - 2nd Floor",
     "name": "High School Computer Lab",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB207",
+    "code": "SCB207 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB208",
+    "code": "SCB208 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB209",
+    "code": "SCB209 - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB210",
+    "code": "SCB210 - 2nd Floor",
     "name": "Grade School Learning Resource Center / Library",
     "building": "St. Catherine"
   },
   {
-    "code": "Grade School Prefect of Student Formation and Grade Level Leader",
+    "code": "Grade School Prefect of Student Formation and Grade Level Leader - 2nd Floor",
     "name": "",
     "building": "St. Catherine"
   },
    {
-    "code": "SCB301",
+    "code": "SCB301 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB302",
+    "code": "SCB302 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB303",
+    "code": "SCB303 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB304",
+    "code": "SCB304 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB305",
+    "code": "SCB305 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB306",
+    "code": "SCB306 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB307",
+    "code": "SCB307 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB308",
+    "code": "SCB308 - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB309",
+    "code": "SCB309 - 3rd Floor",
     "name": "Grade School Science Laboratory",
     "building": "St. Catherine"
   },
   {
-    "code": "Mimeographing Room",
+    "code": "Mimeographing Room - 3rd Floor",
     "name": "",
     "building": "St. Catherine"
   },
     {
-    "code": "SCB401",
+    "code": "SCB401 - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB402",
+    "code": "SCB402 - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB403",
+    "code": "SCB403 - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB404",
+    "code": "SCB404 - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB405",
+    "code": "SCB405 - 4th Floor ",
     "name": "Speech Laboratory",
     "building": "St. Catherine"
   },
   {
-    "code": "Math Faculty",
+    "code": "Math Faculty - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Principal's Office",
+    "code": "Principal's Office - 4th Floor ",
     "name": "",
     "building": "St. Catherine"
   },
     {
-    "code": "SCB501",
+    "code": "SCB501 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB502",
+    "code": "SCB502 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB503",
+    "code": "SCB503 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB504",
+    "code": "SCB504 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB505",
+    "code": "SCB505 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "SCB506",
+    "code": "SCB506 - 5th Floor",
     "name": "",
     "building": "St. Catherine"
   },
   {
-    "code": "Auditorium",
+    "code": "Auditorium - Ground Floor",
     "name": "",
     "building": "Mother Francisca Hall"
   },
   {
-    "code": "St. Dominic Canteen",
+    "code": "St. Dominic Canteen - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Mikrotik Training Cente",
-    "name": "r",
-    "building": "St. Dominic"
-  },
-  {
-    "code": "IBED Student Council Office",
+    "code": "Mikrotik Training Center  - Basement",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SCT Assessment Center",
+    "code": "IBED Student Council Office - Basement",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SCT Archives",
+    "code": "SCT Assessment Center - Basement",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "St. Rose of Lima Hall",
+    "code": "SCT Archives - Basement",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Computer Laboratory Office",
+    "code": "St. Rose of Lima Hall - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "College Computer Laboratory",
+    "code": "Computer Laboratory Office - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Accreditation Center",
+    "code": "College Computer Laboratory - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "High School Computer Laboratory",
+    "code": "Accreditation Center - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Office of the President",
+    "code": "High School Computer Laboratory - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Cyber Siena",
+    "code": "Office of the President - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Finance Office",
+    "code": "Cyber Siena - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Office of the Guidance Services",
+    "code": "Finance Office - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Registrar's Office",
+    "code": "Office of the Guidance Services - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Admission and Marketing Office",
+    "code": "Registrar's Office - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Catharsis Room",
+    "code": "Admission and Marketing Office - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Mindfulness Room",
+    "code": "Mindfulness Room - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Multipurpose Room/Testing Room",
-    "name": "Testing Room",
-    "building": "St. Dominic"
-  },
-  {
-    "code": "Instructional Media Center Office",
+    "code": "Multipurpose Room/Testing Room - Ground Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Grade School Library",
+    "code": "Instructional Media Center Office - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "CL/VE Faculty",
+    "code": "Grade School Library - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Safety and Disaster Risk Management Office",
+    "code": "CL/VE Faculty - 2nd Floor",
+    "name": "",
+    "building": "St. Dominic"
+  },
+  {
+    "code": "Safety and Disaster Risk Management Office - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB201",
+    "code": "SDB201 - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB202",
+    "code": "SDB202 - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
    {
-    "code": "ReverbLab",
+    "code": "Reverberation Lab - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "Music Room",
+    "code": "Music Room - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB203",
+    "code": "SDB203 - 2nd Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB311",
+    "code": "SDB311 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB312",
+    "code": "SDB312 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB313",
+    "code": "SDB313 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB314",
+    "code": "SDB314 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB315",
+    "code": "SDB315 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB316",
+    "code": "SDB316 - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB317",
+    "code": "SDB317 - 3rd Floor",
     "name": "Professional Learning Community Room",
     "building": "St. Dominic"
   },
    {
-    "code": "Exhibit Room",
+    "code": "Exhibit Room - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB320",
+    "code": "SDB320 - 3rd Floor",
     "name": "Laboratory",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB321",
+    "code": "SDB321 - 3rd Floor",
     "name": "Integrated Science Laboratory",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB322",
+    "code": "SDB322 - 3rd Floor",
     "name": "Chemistry Laboratory",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB323",
+    "code": "SDB323 - 3rd Floor",
     "name": "Physics Laboratory",
     "building": "St. Dominic"
   },
   {
-    "code": "Science Laboratory Office",
+    "code": "Science Laboratory Office - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
    {
-    "code": "SHS Year Level",
+    "code": "SHS Year Level - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SHS Prefect Formation",
+    "code": "SHS Prefect Formation - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Reading Faculty",
+    "code": "Reading Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "AP and Filipino Faculty",
+    "code": "AP and Filipino Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "English Faculty",
+    "code": "English Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "MAPEH Faculty",
+    "code": "MAPEH Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Science Faculty",
+    "code": "Science Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "Tle Faculty",
+    "code": "TLE Faculty - 3rd Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB401",
+    "code": "SDB401 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB402",
+    "code": "SDB402 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB403",
+    "code": "SDB403 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB404",
+    "code": "SDB404 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB405",
+    "code": "SDB405 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB406",
+    "code": "SDB406 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB407",
+    "code": "SDB407 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB408",
+    "code": "SDB408 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB409",
+    "code": "SDB409 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB410",
+    "code": "SDB410 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB411",
+    "code": "SDB411 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB412",
+    "code": "SDB412 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB413",
+    "code": "SDB413 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB414",
+    "code": "SDB414 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB415",
+    "code": "SDB415 - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB416",
+    "code": "SDB416 - 4th Floor",
     "name": "Publication Office",
     "building": "St. Dominic"
   },
   {
-    "code": "High School Prefect of Student Formation Office",
+    "code": "High School Prefect of Student Formation Office - 4th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "JLL Office",
+    "code": "JLL Office - 4th Floor",
     "name": "Junior Level Leaders Office",
     "building": "St. Dominic"
   },
    {
-    "code": "SDB501",
+    "code": "SDB501 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB502",
+    "code": "SDB502 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB503",
+    "code": "SDB503 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB504",
+    "code": "SDB504 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB505",
+    "code": "SDB505 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB506",
+    "code": "SDB506 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB507",
+    "code": "SDB507 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB511",
+    "code": "SDB511 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
     {
-    "code": "SDB512",
+    "code": "SDB512 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
      {
-    "code": "SDB513",
+    "code": "SDB513 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
   {
-    "code": "SDB514",
+    "code": "SDB514 - 5th Floor",
     "name": "",
     "building": "St. Dominic"
   },
@@ -940,47 +935,47 @@
     "building": "St. Jacques"
   },
   {
-    "code": "Pastry Kitchen 1",
+    "code": "Pastry Kitchen 1 - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Bill Shaw Cafe",
+    "code": "Bill Shaw Cafe - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Salle de Conference Vibal 1",
+    "code": "Salle de Conference Vibal 1 - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Salle de Conference Vibal 2",
+    "code": "Salle de Conference Vibal 2 - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Hot Kitchen 1",
+    "code": "Hot Kitchen 1 - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "General Store Room",
+    "code": "General Store Room - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Commercial Kitchen",
+    "code": "Commercial Kitchen - Ground Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "CIHM Faculty Office",
+    "code": "CIHM Faculty Office - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Practicum Office",
+    "code": "Practicum Office - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
@@ -990,87 +985,87 @@
     "building": "St. Jacques"
   },
   {
-    "code": "Pastry Kitchen 2",
+    "code": "Pastry Kitchen 2 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Pastry Kitchen 3",
+    "code": "Pastry Kitchen 3 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "General Stock Room",
+    "code": "General Stock Room - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Hot Kitchen 2",
+    "code": "Hot Kitchen 2 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Conference Hall 1",
+    "code": "Conference Hall 1 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Conference Hall 2",
+    "code": "Conference Hall 2 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Conference Hall 3",
+    "code": "Conference Hall 3 - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "CIHM Chairperson's Office",
+    "code": "CIHM Chairperson's Office - 2nd Floor",
     "name": "",
     "building": "St. Jacques"
   },
    {
-    "code": "SJB301",
+    "code": "SJB301 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "SJB302",
+    "code": "SJB302 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
     {
-    "code": "SJB303",
+    "code": "SJB303 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
      {
-    "code": "SJB304",
+    "code": "SJB304 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "SJB305",
+    "code": "SJB305 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
     {
-    "code": "SJB306",
+    "code": "SJB306 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
     },
   {
-    "code": "Big Hall 1",
+    "code": "Big Hall 1 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Big Hall 2",
+    "code": "Big Hall 2 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
   {
-    "code": "Big Hall 3",
+    "code": "Big Hall 3 - 3rd Floor",
     "name": "",
     "building": "St. Jacques"
   },
@@ -1190,122 +1185,122 @@
     "building": "St. Jacques"
     },
   {
-    "code": "Holy Rosary Canteen",
+    "code": "Holy Rosary Canteen - Basement",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Campus Ministry Office",
+    "code": "Campus Ministry Office - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Health Services",
+    "code": "Health Services - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Student Services Director Health Services Head",
+    "code": "Student Services Director Health Services Head - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Institutional Student Affairs and Activities ROSE",
+    "code": "Institutional Student Affairs and Activities - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Pantry",
+    "code": "Pantry - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "HRM and D Office",
+    "code": "HRM and D Office - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Defense Room",
+    "code": "Defense Room - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Research Development Center",
+    "code": "Research Development Center - 1st Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Chapel",
+    "code": "Chapel - 2nd Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Sacristy 1",
+    "code": "Sacristy 1 - 2nd Floor",
     "name": "",
     "building": "St. Rose"
   },
   {
-    "code": "Playground",
+    "code": "Playground - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Faculty Room",
+    "code": "Faculty Room - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Computer Laboratory - Kinder",
+    "code": "Computer Laboratory Kinder - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 101",
+    "code": "Room 101 - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 102",
+    "code": "Room 102 - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Mother Francisca Outreach Center",
+    "code": "Mother Francisca Outreach Center - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Sewing Center",
+    "code": "Sewing Center - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Play Room",
+    "code": "Play Room - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Casa Sebastiana",
+    "code": "Casa Sebastiana - 1st Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 201",
+    "code": "Room 201 - 2nd Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 202",
+    "code": "Room 202 - 2nd Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 202",
+    "code": "Room 202 - 2nd Floor",
     "name": "",
     "building": "Mother Natividad"
   },
   {
-    "code": "Room 204",
+    "code": "Room 204 - 2nd Floor",
     "name": "",
     "building": "Mother Natividad"
   },
