@@ -1269,7 +1269,7 @@
     "building": "Gym"
   },
   {
-    "code":"POOL",
+    "code":"Pool",
     "name":"Swimming Pool",
     "building":"St. Martin Complex"
   },
