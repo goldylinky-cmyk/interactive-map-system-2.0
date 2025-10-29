@@ -173,7 +173,7 @@ header img {
   display: block;
 }
 #search-results li:hover {
-  background-color: #ff2c2c;
+  background-color: #f88d01;
 }
 #search-results li {
   color: white !important;
@@ -198,11 +198,13 @@ header img {
 }
 
 #search-results li strong[style*="color:green"] {
-  color: #4CAF50 !important;
+  color: #2E7D32 !important; 
+  font-weight: bold;
 }
 
 #search-results li strong[style*="color:red"] {
-  color: #F44336 !important;
+  color: #C62828 !important; 
+  font-weight: bold;
 }
 
 #search-results li div {
