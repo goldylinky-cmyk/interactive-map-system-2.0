@@ -35,7 +35,6 @@ body {
   position: absolute;  /* Changed to fixed */
   right: 15px;
   top: 15px;
-  background: rgba(142, 1, 1, 0.9);  /* Semi-transparent maroon background */
   color: #fff;
   border: 2px solid rgba(255,255,255,0.5);
   width: 32px;
@@ -160,7 +159,7 @@ header img {
   list-style: none;
   margin-top: 0.25rem;
   padding-left: 0.5rem;
-  max-height: 250px;
+  max-height: 550px;
   overflow-y: auto;
   overflow-x: hidden;
   background: #6c0101;
@@ -572,6 +571,8 @@ header.hidden {
   z-index: 110; /* above icons */
   transition: opacity 0.12s ease, transform 0.12s ease;
   opacity: 0;
+  left: 0;
+  top: 0;
 }
 
 .map-tooltip.visible {
@@ -598,4 +599,3 @@ header.hidden {
     padding: 5px 6px;
   }
 }
-
