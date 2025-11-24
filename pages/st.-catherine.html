@@ -186,10 +186,18 @@
     </a>
     <h1>St. Catherine Building</h1>
     <h3>This building contains lecture halls, offices, and labs.</h3>
-    <nav class="breadcrumbs">
-      <a href="../index.html">Map</a> &gt; <span>St. Catherine</span>
-    </nav>
+            <nav class="breadcrumbs">
+            <a href="../index.html">Map</a> &gt; <span>St. Catherine</span>
+        </nav>
   </div>
+      <div id="floor-nav-dropdown" class="floor-nav-dropdown">
+      <button id="floor-nav-button" class="floor-nav-button">
+      <span>Jump to Floor</span>
+      <span class="dropdown-arrow">▼</span>
+      </button>
+      <div id="floor-nav-menu" class="floor-nav-menu">
+      </div>
+      </div>
   <main>
     <section class="room-grid">
   <h2 class="floor-heading floor-5" style="margin-top: 0;">5th Floor</h2>
@@ -449,6 +457,100 @@
     </div>
   </main>
   <script>
+document.addEventListener('DOMContentLoaded', function() {
+  createFloorDropdown();
+  setupFloorScrollSpy();
+});
+
+function createFloorDropdown() {
+  const floorNavMenu = document.getElementById('floor-nav-menu');
+  const floorHeadings = document.querySelectorAll('.floor-heading');
+  
+  if (floorHeadings.length === 0) {
+    document.getElementById('floor-nav-dropdown').style.display = 'none';
+    return;
+  }
+  
+  floorNavMenu.innerHTML = '';
+  
+  floorHeadings.forEach((heading, index) => {
+    const floorText = heading.textContent.trim();
+    
+    const floorOption = document.createElement('button');
+    floorOption.className = 'floor-option';
+    floorOption.textContent = floorText;
+    floorOption.setAttribute('data-floor-index', index);
+    
+    floorOption.addEventListener('click', function() {
+      scrollToFloor(heading);
+      closeDropdown();
+    });
+    
+    floorNavMenu.appendChild(floorOption);
+  });
+  
+  const dropdown = document.getElementById('floor-nav-dropdown');
+  const dropdownButton = document.getElementById('floor-nav-button');
+  
+  dropdownButton.addEventListener('click', function() {
+    dropdown.classList.toggle('open');
+  });
+  
+  document.addEventListener('click', function(event) {
+    if (!dropdown.contains(event.target)) {
+      closeDropdown();
+    }
+  });
+}
+
+function scrollToFloor(floorHeading) {
+  const headerOffset = 80;
+  const elementPosition = floorHeading.getBoundingClientRect().top;
+  const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+  
+  window.scrollTo({
+    top: offsetPosition,
+    behavior: 'smooth'
+  });
+}
+
+function closeDropdown() {
+  const dropdown = document.getElementById('floor-nav-dropdown');
+  dropdown.classList.remove('open');
+}
+
+function setupFloorScrollSpy() {
+  const floorHeadings = document.querySelectorAll('.floor-heading');
+  const floorOptions = document.querySelectorAll('.floor-option');
+  
+  if (floorHeadings.length === 0) return;
+  
+  function updateActiveFloor() {
+    let currentIndex = -1;
+    
+    floorHeadings.forEach((heading, index) => {
+      const rect = heading.getBoundingClientRect();
+      if (rect.top <= 100 && rect.bottom >= 100) {
+        currentIndex = index;
+      }
+    });
+    
+    floorOptions.forEach((option, index) => {
+      option.classList.toggle('active', index === currentIndex);
+    });
+    
+    const dropdownButton = document.getElementById('floor-nav-button');
+    if (currentIndex >= 0) {
+      const currentFloorText = floorHeadings[currentIndex].textContent.trim();
+      dropdownButton.querySelector('span:first-child').textContent = currentFloorText;
+    }
+  }
+  
+  window.addEventListener('scroll', updateActiveFloor);
+  window.addEventListener('resize', updateActiveFloor);
+  updateActiveFloor();
+}
+
   const roomsStCatherine = [
     { id: "CasaAntoniaTrainingHotel", hours: { open: "07:00", close: "17:00" } },
     { id: "NutritionLaboratory1", hours: { open: "07:00", close: "19:00" } },

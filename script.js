@@ -1,4 +1,4 @@
-// Convert node coordinates to canvas coordinates
+﻿// Convert node coordinates to canvas coordinates
 function toCanvasCoords(coord, canvas) {
     // Scale coordinates to match the pathways editor
     const nodeScaleX = 1.25;   // >1 stretches wider, <1 shrinks horizontally
@@ -345,7 +345,7 @@ function initPathFinder() {
 
 // === ICON DATA (unchanged) ===
 const iconData = [
-    { name: "St. Albertus Magnus Building", x: 31, y: 45, link:"pages/st.-albertus-magnus.html", img: "assets/icons/albertus.png" },
+    { name: "St. Albertus Magnus Building", x: 31, y: 45, link:"pages/st.-albertus-magnus.html", img: "assets/icons/Albertus Magnus Building.png" },
     { name: "St. Jacques Building", x: 52, y: 21, link: "pages/st.-jacques.html", img: "assets/icons/jacques.png" },
     { name: "St. Thomas Aquinas Building", x: 47, y: 45, link:"pages/st.-thomas-aquinas.html", img: "assets/icons/aquinas.png" },
     { name: "St. Catherine Building", x: 45, y: 54, link:"pages/st.-catherine.html", img: "assets/icons/catherine.png" },
@@ -354,7 +354,7 @@ const iconData = [
     { name: "Auditorium", x: 34, y: 66, link:"360-viewer.html?room=Auditorium", img: "assets/icons/auditorium.png" },
     { name:"St. Martin Complex", x: 20, y: 54, link:"360-viewer.html?room=St. Martin Sports Complex", img: "assets/icons/martin.png" },
     { name:"St. Rose", x:59, y:60, link:"pages/st.-rose.html", img: "assets/icons/rose.png" },
-    { name:"Mother Francisca Outreach Center", x:66, y:87, link:"pages/mother-natividad.html" },
+    { name:"Mother Francisca Outreach Center", x:63, y:85, link:"pages/mother-natividad.html", img:"assets/icons/Mother Natividad.png"},
     { name:"Gate 1", x:70, y:83, link:"360-viewer.html?room=Gate 1", img: "assets/icons/gate 1.png" },
     { name:"Gate 2", x:65, y:66, link:"360-viewer.html?room=Gate 2", img: "assets/icons/gate 2.png" },
     { name:"Gate 3", x:77, y:38, link:"360-viewer.html?room=Gate 3", img: "assets/icons/gate 3.png" },
@@ -721,6 +721,19 @@ if (searchInput && resultsList) {
   const searchWords = val.split(/\s+/).filter(word => word.length > 1);
   return searchWords.every(word => searchableText.includes(word));
 });
+
+  document.addEventListener('click', function(event) {
+    if (!searchInput.contains(event.target) && !resultsList.contains(event.target)) {
+      resultsList.innerHTML = ""; // Clear results
+    }
+  });
+
+    searchInput.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      resultsList.innerHTML = ""; // Clear results
+      searchInput.blur(); // Remove focus
+    }
+  })
 
     matches.forEach(match => {
       const li = document.createElement("li");

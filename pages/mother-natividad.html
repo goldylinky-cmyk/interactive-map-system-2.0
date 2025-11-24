@@ -53,7 +53,7 @@
             align-items: center;
             gap: 0.5rem;
             font-size: 1rem;
-            color: #888;
+            color: #130101;
             margin: 0 0 1.5rem 0;
             padding-left: 1.5rem;
         }
@@ -188,6 +188,15 @@
         </nav>
     </div>
     <main>
+        <div id="floor-nav-dropdown" class="floor-nav-dropdown">
+        <button id="floor-nav-button" class="floor-nav-button">
+        <span>Jump to Floor</span>
+        <span class="dropdown-arrow">▼</span>
+        </button>
+        <div id="floor-nav-menu" class="floor-nav-menu">
+    <!-- Floor options will be added here dynamically -->
+        </div>
+        </div>
         <section class="room-grid">
 
 
@@ -306,6 +315,101 @@
         }
     </script>
 <script>
+
+ document.addEventListener('DOMContentLoaded', function() {
+      createFloorDropdown();
+      setupFloorScrollSpy();
+    });
+
+    function createFloorDropdown() {
+      const floorNavMenu = document.getElementById('floor-nav-menu');
+      const floorHeadings = document.querySelectorAll('.floor-heading');
+      
+      if (floorHeadings.length === 0) {
+        document.getElementById('floor-nav-dropdown').style.display = 'none';
+        return;
+      }
+      
+      floorNavMenu.innerHTML = '';
+      
+      floorHeadings.forEach((heading, index) => {
+        const floorText = heading.textContent.trim();
+        
+        const floorOption = document.createElement('button');
+        floorOption.className = 'floor-option';
+        floorOption.textContent = floorText;
+        floorOption.setAttribute('data-floor-index', index);
+        
+        floorOption.addEventListener('click', function() {
+          scrollToFloor(heading);
+          closeDropdown();
+        });
+        
+        floorNavMenu.appendChild(floorOption);
+      });
+      
+      const dropdown = document.getElementById('floor-nav-dropdown');
+      const dropdownButton = document.getElementById('floor-nav-button');
+      
+      dropdownButton.addEventListener('click', function() {
+        dropdown.classList.toggle('open');
+      });
+      
+      document.addEventListener('click', function(event) {
+        if (!dropdown.contains(event.target)) {
+          closeDropdown();
+        }
+      });
+    }
+
+    function scrollToFloor(floorHeading) {
+      const headerOffset = 80;
+      const elementPosition = floorHeading.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+      
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    }
+
+    function closeDropdown() {
+      const dropdown = document.getElementById('floor-nav-dropdown');
+      dropdown.classList.remove('open');
+    }
+
+    function setupFloorScrollSpy() {
+      const floorHeadings = document.querySelectorAll('.floor-heading');
+      const floorOptions = document.querySelectorAll('.floor-option');
+      
+      if (floorHeadings.length === 0) return;
+      
+      function updateActiveFloor() {
+        let currentIndex = -1;
+        
+        floorHeadings.forEach((heading, index) => {
+          const rect = heading.getBoundingClientRect();
+          if (rect.top <= 100 && rect.bottom >= 100) {
+            currentIndex = index;
+          }
+        });
+        
+        floorOptions.forEach((option, index) => {
+          option.classList.toggle('active', index === currentIndex);
+        });
+        
+        const dropdownButton = document.getElementById('floor-nav-button');
+        if (currentIndex >= 0) {
+          const currentFloorText = floorHeadings[currentIndex].textContent.trim();
+          dropdownButton.querySelector('span:first-child').textContent = currentFloorText;
+        }
+      }
+      
+      window.addEventListener('scroll', updateActiveFloor);
+      window.addEventListener('resize', updateActiveFloor);
+      updateActiveFloor();
+    }
+
 const roomsMotherNatividad = [
   { id: "FacultyRoom", hours: { open: "07:00", close: "16:00" } },
   { id: "ComputerLabKinder", hours: { open: "07:00", close: "15:00" } },
@@ -321,6 +425,8 @@ const roomsMotherNatividad = [
   { id: "Playground", hours: { open: "07:00", close: "16:00" } },
   { id: "PlayRoom", hours: { open: "07:00", close: "16:00" } }
 ];
+
+
 
 function formatTime12hr(timeStr) {
   let [hour, minute] = timeStr.split(":").map(Number);
@@ -369,4 +475,3 @@ setInterval(updateRoomStatus, 60000);
 </script>
 </body>
 </html>
-
