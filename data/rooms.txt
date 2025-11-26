@@ -560,7 +560,7 @@
   },
   {
     "code": "",
-    "name": "Finance Office",
+    "name": "Cashier / Finance Office",
     "building": "St. Dominic"
   },
   {
@@ -878,11 +878,7 @@
     "name": "Suite Royale",
     "building": "St. Jacques"
   },
-  {
-    "code": "",
-    "name": "La Suite Principale de Serrano (Gintong Aral)",
-    "building": "St. Jacques"
-  },
+
   {
     "code": "",
     "name": "Computeer Laboratory",
@@ -1150,9 +1146,10 @@
   },
   {
     "code": "",
-    "name": "Health Services",
+    "name": "Clinic / Health Services",
     "building": "St. Rose"
   },
+  
   {
     "code": "",
     "name": "Student Services Director Health Services Head",

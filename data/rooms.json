@@ -96,7 +96,7 @@
   },
   {
     "code": "Learning Resource Center",
-    "name": "Library - 3rd Floor",
+    "name": "College Library - 3rd Floor",
     "building": "St. Albertus Magnus"
   },
   {
@@ -580,7 +580,7 @@
     "building": "St. Dominic"
   },
   {
-    "code": "Finance Office",
+    "code": "Cashier / Finance Office",
     "name": " - Ground Floor",
     "building": "St. Dominic"
   },
@@ -1195,7 +1195,7 @@
     "building": "St. Rose"
   },
   {
-    "code": "Health Services",
+    "code": "Clinic / Health Services",
     "name": " - 1st Floor",
     "building": "St. Rose"
   },

@@ -2736,7 +2736,7 @@
             }
         ]
     },
-    "Finance Office": {
+    "Cashier / Finance Office": {
         "image": "assets/360-images/dominic edited/finance office.jpg",
         "pitch": 0,
         "yaw": 90,
@@ -9721,7 +9721,7 @@
             }
         ]
     },
-    "Health Services": {
+    "Clinic / Health Services": {
         "image": "assets/360-images/others/health services.jpg",
         "pitch": 0,
         "yaw": -90,
