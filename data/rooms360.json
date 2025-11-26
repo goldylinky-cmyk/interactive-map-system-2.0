@@ -27,7 +27,7 @@
                 "pitch": 0,
                 "yaw": -90,
                 "type": "info",
-                "text": "Faculty room for the College of Engineering and Information Technology teachers. \n \n7:00 AM - 4:00 PM"
+                "text": "<b>CEIT Faculty Room </b> \n \nFaculty room for the College of Engineering and Information Technology teachers. \n \n7:00 AM - 4:00 PM"
             }
         ]
     },
@@ -46,13 +46,13 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text":"Office of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
+                "text":"<b> CEIT Chairperson Room </b> \n \nOffice of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -2,
                 "yaw": -35,
                 "type": "info",
-                "text":"Advanced training/lecture room for specialized networking courses \n(often industry certified)."
+                "text":"<b> Mikrotik Academy </b> \n \nAdvanced training/lecture room for specialized networking courses \n(often industry certified). \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -40,
@@ -89,13 +89,14 @@
                 "pitch": -5,
                 "yaw": 230,
                 "type": "info",
-                "text": "Office of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
+                "text": "<b> CEIT Chairperson Room </b> \n \nOffice of the Department Head/Chairperson for CEIT. \n \n7:00 AM - 4:00 PM"
+
             },
             {
                 "pitch": -5,
                 "yaw": -80,
                 "type": "info",
-                "text":"Advanced training/lecture room for specialized networking courses \n(often industry certified)."
+                "text":"<b> Mikrotik Academy </b> \n \nAdvanced training/lecture room for specialized networking courses \n(often industry certified)."
             },
             {
                 "pitch": -12,
@@ -133,13 +134,13 @@
                 "pitch": -5,
                 "yaw": 38,
                 "type": "info",
-                "text":"Storage and maintenance of tools, devices, and specialized equipment for CEIT."
+                "text":"<b> CEIT Equipment Room </b> \n \nStorage and maintenance of tools, devices, and specialized equipment for CEIT."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
+                "text":"<b> Electronic and Circuits Laboratory </b> \n \nSpecialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -11,
@@ -176,13 +177,13 @@
                 "pitch": -5,
                 "yaw": 38,
                 "type": "info",
-                "text":"Storage and maintenance of tools, devices, and specialized equipment for CEIT."
+                "text":"<b> CEIT Equipment Room </b> \n \nStorage and maintenance of tools, devices, and specialized equipment for CEIT."
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
+                "text":"<b> Electronic and Circuits Laboratory </b> \n \nSpecialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -11,
@@ -207,13 +208,13 @@
                 "pitch": -10,
                 "yaw": 0,
                 "type": "info",
-                "text": "General classroom/lecture hall for CEIT courses."  
+                "text": "<b> CEIT Lecture Room </b> \n \nGeneral classroom/lecture hall for CEIT courses." 
             },
             {
                 "pitch": -5,
                 "yaw": -50,
                 "type": "info",
-                "text":"Specialized laboratory for Electrical/Electronics Engineering and IT courses."
+                "text":"<b> Electronic and Circuits Laboratory </b> \n \nSpecialized laboratory for Electrical/Electronics Engineering and IT courses."
             },
             {
                 "pitch": -10,
@@ -250,13 +251,13 @@
                 "pitch": -5,
                 "yaw": 45,
                 "type": "info",
-                "text": "General classroom/lecture hall for CEIT courses."  
+                "text": "<b> CEIT Lecture Room </b> \n \nGeneral classroom/lecture hall for CEIT courses." 
             },
             {
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "Lab for Engineering drawing, drafting, and design courses."  
+                "text": "<b> Drawing Laboratory </b> \n \nLab for Engineering drawing, drafting, and design courses." 
             },
             {
                 "pitch": -9,
@@ -293,13 +294,13 @@
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Computer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
+                "text": "<b> Mac Laboratory </b> \n \nComputer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "General computer lab for CEIT courses."
+                "text": "<b> CEIT Computer Laboratory </b> \n \nGeneral computer lab for CEIT courses."
             },
             {
                 "pitch": -11,
@@ -330,13 +331,13 @@
                 "pitch": -5,
                 "yaw": 60,
                 "type": "info",
-                "text": "Computer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
+                "text": "<b> Mac Laboratory </b> \n \nComputer lab equipped with Apple Macintosh systems, likely for specialized IT/Multimedia courses."
             },
             {
                 "pitch": -5,
                 "yaw": 120,
                 "type": "info",
-                "text": "General computer lab for CEIT courses."
+                "text": "<b> CEIT Computer Laboratory </b> \n \nGeneral computer lab for CEIT courses."
             },
             {
                 "pitch": -11,
@@ -367,7 +368,7 @@
                 "pitch": 0,
                 "yaw": 90,
                 "type": "info",
-                "text": "General storage for the CEIT department."
+                "text": "<b> Storage Room </b> \n \nGeneral storage for the CEIT department."
             },
             {
                 "pitch": -5,
@@ -414,7 +415,7 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Faculty room for the College of Business and Accountancy (CBA) teachers."
+                "text": "<b> CBA Faculty Room </b> \n \nFaculty room for the College of Business and Accountancy (CBA) teachers. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -12,
@@ -439,13 +440,13 @@
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Office of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
+                "text": "<b> CBA Chairperson Room </b> \n \nOffice of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -60,
                 "type": "info",
-                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b> ALM 401 </b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -12,
@@ -476,13 +477,13 @@
                 "pitch": -5,
                 "yaw": -120,
                 "type": "info",
-                "text": "Office of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
+                "text": "<b> CBA Chairperson Room </b> \n \nOffice of the Department Head/Chairperson for CBA. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -60,
                 "type": "info",
-                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b> ALM 401 </b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -12,
@@ -513,13 +514,13 @@
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "ALM 401 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 401</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "ALM 402 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 402</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -534,13 +535,7 @@
                 "sceneId": "ALM401"
             },
             {
-                "pitch": -9,
-                "yaw": 0,
-                "type": "scene",
-                "sceneId": "ALM402"
-            },
-            {
-                "pitch": -5,
+                "pitch": -10,
                 "yaw": 2,
                 "type": "scene",
                 "sceneId": "ALM403"
@@ -556,13 +551,13 @@
                 "pitch": -5,
                 "yaw": -130,
                 "type": "info",
-                "text": "ALM 402 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 402</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "ALM 403 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 403</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -599,13 +594,13 @@
                 "pitch": -5,
                 "yaw": -140,
                 "type": "info",
-                "text": "ALM 403 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 403</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "ALM 404 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 404</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -642,13 +637,13 @@
                 "pitch": -5,
                 "yaw": -135,
                 "type": "info",
-                "text": "ALM 404 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 404</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "ALM 405 \nGeneral Classrooms/Lecture Rooms for CBA subjects."
+                "text": "<b>ALM 405</b> \n \nGeneral Classrooms/Lecture Rooms for CBA subjects."
             },
             {
                 "pitch": -5,
@@ -679,7 +674,7 @@
                 "pitch": 0,
                 "yaw": 87,
                 "type": "info",
-                "text": "Business Stimulation Office \n \nFacility used to simulate a real business environment for hands-on training/exercises (e.g., Accounting, Marketing)."
+                "text": "<b>Business Stimulation Office</b> \n \nFacility used to simulate a real business environment for hands-on training/exercises (e.g., Accounting, Marketing). \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
@@ -719,7 +714,7 @@
                 "pitch": -5,
                 "yaw": 90,
                 "type": "info",
-                "text": "General meeting room for faculty, staff, and external stakeholders."
+                "text": "<b> Conference Room</b> \n\nGeneral meeting room for faculty, staff, and external stakeholders."
             },
             {
                 "pitch": -12,
@@ -752,7 +747,7 @@
                 "pitch": -5,
                 "yaw": 115,
                 "type": "info",
-                "text": "General library for the College/Building."
+                "text": "<b> Learning Resource Center (Library)</b> \n\nGeneral library for the College/Building. \n\n 7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -2,
@@ -783,13 +778,13 @@
                 "pitch": -5,
                 "yaw": 55,
                 "type": "info",
-                "text": "General library for the College/Building."
+                "text": "<b> Learning Resource Center (Library)</b> \n\nGeneral library for the College/Building. \n\n 7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": 85,
                 "type": "info",
-                "text": "General-purpose computer lab (shared use)."
+                "text": "<b>Computer Laboratory</b> \n\nGeneral-purpose computer lab (shared use)."
             },
             {
                 "pitch": -9,
@@ -814,7 +809,7 @@
                 "pitch": 0,
                 "yaw": 87,
                 "type": "info",
-                "text": "<b>Prefect of Student Formation and Activities</b>\n\nCollege-level office overseeing student discipline, welfare, and activities/organizations."
+                "text": "<b>Prefect of Student Formation and Activities</b>\n\nCollege-level office overseeing student discipline, welfare, and activities/organizations. \n\n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -3,
@@ -853,7 +848,7 @@
                 "pitch": -5,
                 "yaw": -95,
                 "type": "info",
-                "text": "Faculty room for the College of Nursing (CON) teachers."
+                "text": "<b> CON Faculty Room</b> \n\nFaculty room for the College of Nursing (CON) teachers. \n\n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -12,
@@ -886,13 +881,13 @@
                 "pitch": -5,
                 "yaw": -90,
                 "type": "info",
-                "text": "Office of the Dean/Chairperson for the College of Nursing. \n \n7:00 AM - 4:00 PM"
+                "text": "<b>CON Chairperson Room (Dean College of Nursing)</b> \n \nOffice of the Dean/Chairperson for the College of Nursing. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -5,
                 "yaw": -45,
                 "type": "info",
-                "text": "Lab for practical Nursing skills and procedures training."
+                "text": "<b>ALM201a – Nursing Laboratory 1</b> \n \nLab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -14,
@@ -917,13 +912,13 @@
                 "pitch": -5,
                 "yaw": -100,
                 "type": "info",
-                "text": "Lab for practical Nursing skills and procedures training."
+                "text": "<b>ALM201a – Nursing Laboratory 1</b> \n \nLab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Lab focused on specific nursing arts and techniques."
+                "text": "<b>ALM201b – Nursing Arts Lab 1</b> \n\nLab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -954,13 +949,13 @@
                 "pitch": -5,
                 "yaw": -100,
                 "type": "info",
-                "text": "Lab for practical Nursing skills and procedures training."
+                "text": "<b>ALM201a – Nursing Laboratory 1</b> \n\nLab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Lab focused on specific nursing arts and techniques."
+                "text": "<b>ALM201b – Nursing Arts Lab 1</b> \n\nLab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -991,13 +986,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Lab focused on specific nursing arts and techniques."
+                "text": "<b>ALM201b – Nursing Arts Lab 1</b> \n\nLab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Secondary/Advanced lab for practical Nursing skills and procedures training."
+                "text": "<b>ALM202a – Nursing Laboratory 2</b> \n\nSecondary/Advanced lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -10,
@@ -1022,13 +1017,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Secondary/Advanced lab for practical Nursing skills and procedures training."
+                "text": "<b>ALM202a – Nursing Laboratory 2</b> \n\nSecondary/Advanced lab for practical Nursing skills and procedures training."
             },
             {
                 "pitch": -5,
                 "yaw": -65,
                 "type": "info",
-                "text": "Secondary/Advanced lab focused on specific nursing arts and techniques."
+                "text": "<b>ALM202b – Nursing Arts Lab 2</b> \n\nSecondary/Advanced lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -10,
@@ -1053,13 +1048,13 @@
                 "pitch": -5,
                 "yaw": -115,
                 "type": "info",
-                "text": "Secondary/Advanced lab focused on specific nursing arts and techniques."
+                "text": "<b>ALM202b – Nursing Arts Lab 2</b> \n\nSecondary/Advanced lab focused on specific nursing arts and techniques."
             },
             {
                 "pitch": -5,
                 "yaw": -55,
                 "type": "info",
-                "text": "Specialized laboratory for the study of the human anatomy (often with models or specimens)."
+                "text": "<b>Anatomy Room</b> \n\nSpecialized laboratory for the study of the human anatomy (often with models or specimens)."
             },
             {
                 "pitch": -10,
@@ -1123,7 +1118,7 @@
                 "pitch": -5,
                 "yaw": -85,
                 "type": "info",
-                "text": "Faculty room for the College of Education (COE) teachers. \n \n7:00 AM - 4:00 PM"
+                "text": "<b>COE Faculty Room</b> \n\nFaculty room for the College of Education (COE) teachers. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": 0,
@@ -1176,7 +1171,7 @@
                 "pitch": -5,
                 "yaw": -75,
                 "type": "info",
-                "text": "Lab where Education students practice teaching skills with immediate feedback/recording."
+                "text": "<b>ALM101 – Micro-Teaching Laboratory</b> \n\nLab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": -5,
@@ -1188,7 +1183,7 @@
                 "pitch": -5,
                 "yaw": 240,
                 "type": "info",
-                "text":"Office of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
+                "text":"<b>COE Chairperson Room</b> \n\nOffice of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -11,
@@ -1213,13 +1208,13 @@
                 "pitch": 0,
                 "yaw": 285,
                 "type": "info",
-                "text": "Lab where Education students practice teaching skills with immediate feedback/recording."
+                "text": "<b>ALM101 – Micro-Teaching Laboratory</b> \n\nLab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": 0,
                 "yaw": 240,
                 "type": "info",
-                "text":"Office of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
+                "text":"<b>COE Chairperson Room</b> \n\nOffice of the Department Head/Chairperson for COE. \n \n7:00 AM - 4:00 PM"
             },
             {
                 "pitch": -11,
@@ -1244,13 +1239,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "General Classrooms/Lecture Rooms for COE subjects."
+                "text": "<b>ALM102</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 220,
                 "type": "info",
-                "text":"Lab where Education students practice teaching skills with immediate feedback/recording."
+                "text":"<b>ALM101 – Micro-Teaching Laboratory</b> \n\nLab where Education students practice teaching skills with immediate feedback/recording."
             },
             {
                 "pitch": -11,
@@ -1275,13 +1270,13 @@
                 "pitch": -5,
                 "yaw": 270,
                 "type": "info",
-                "text": "General Classrooms/Lecture Rooms for COE subjects."
+                "text": "<b>ALM 103</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -5,
                 "yaw": 225,
                 "type": "info",
-                "text":"General Classrooms/Lecture Rooms for COE subjects."
+                "text":"<b>ALM 102</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -11,
@@ -1318,13 +1313,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "General Classrooms/Lecture Rooms for COE subjects."
+                "text": "<b>ALM 104</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 220,
                 "type": "info",
-                "text":"General Classrooms/Lecture Rooms for COE subjects."
+                "text":"<b>ALM 103</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -6,
@@ -1355,13 +1350,13 @@
                 "pitch": 0,
                 "yaw": 275,
                 "type": "info",
-                "text": "General Classrooms/Lecture Rooms for COE subjects."
+                "text": "<b>ALM 105</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": 0,
                 "yaw": 230,
                 "type": "info",
-                "text":"General Classrooms/Lecture Rooms for COE subjects."
+                "text":"<b>ALM 104</b> \n\nGeneral Classrooms/Lecture Rooms for COE subjects."
             },
             {
                 "pitch": -6,
@@ -1410,7 +1405,7 @@
                 "pitch": 0,
                 "yaw": 97,
                 "type": "info",
-                "text": "Technical room containing the main electrical panels and distribution systems."
+                "text": "<b>Electrical Room</b> \n\nTechnical room containing the main electrical panels and distribution systems."
             },
             {
                 "pitch": 20,
@@ -1436,7 +1431,7 @@
                 "pitch": 0,
                 "yaw": 80,
                 "type": "info",
-                "text": "Office for the official school publication (likely college-level)."
+                "text": "<b>Flambeau Publications</b> \n\nOffice for the official school publication (likely college-level)."
             },
             {
                 "pitch": -7,
@@ -1448,7 +1443,7 @@
                 "pitch": 0,
                 "yaw": 97,
                 "type": "info",
-                "text": "Technical room containing the main electrical panels and distribution systems."
+                "text": "<b>Electrical Room</b> \n\nTechnical room containing the main electrical panels and distribution systems."
             },
             {
                 "pitch": 20,
