@@ -350,7 +350,7 @@ const iconData = [
     { name: "St. Thomas Aquinas Building", x: 47, y: 45, link:"pages/st.-thomas-aquinas.html", img: "assets/icons/aquinas.png" },
     { name: "St. Catherine Building", x: 45, y: 54, link:"pages/st.-catherine.html", img: "assets/icons/catherine.png" },
     { name: "St. Dominic Building", x: 47, y: 65, link:"pages/st.-dominic.html", img: "assets/icons/dominic.png" },
-    { name: "Gymnasium", x: 30, y: 75, link:"360-viewer.html?room=Gym" },
+    { name: "Gymnasium", x: 30, y: 75, link:"360-viewer.html?room=Gym" img: "assets/icons/gym.png"},
     { name: "Auditorium", x: 34, y: 66, link:"360-viewer.html?room=Auditorium", img: "assets/icons/auditorium.png" },
     { name:"St. Martin Complex", x: 20, y: 54, link:"360-viewer.html?room=St. Martin Sports Complex", img: "assets/icons/martin.png" },
     { name:"St. Rose", x:59, y:60, link:"pages/st.-rose.html", img: "assets/icons/rose.png" },
